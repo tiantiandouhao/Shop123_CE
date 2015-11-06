@@ -1,0 +1,62 @@
+All,全部
+None,没有
+ID,ID
+Action,操作
+Enabled,启用
+Store View,店铺视图
+Catalog,目录
+Always,总是
+Priority,优先级
+Path,路径
+Daily,每天
+Weekly,每周
+Monthly,每月
+Never,永不
+Generate,生成
+Hourly,每小时
+Start Time,开始时间
+Frequency,频率
+Save & Generate,保存 & 生成
+Edit Sitemap,编辑sitemap.xml
+New Sitemap,新sitemap.xml
+Sitemap Information,网站地图信息
+Sitemap,Sitemap
+Filename,文件名
+example: sitemap.xml,例如: sitemap.xml
+"example: ""sitemap/"" or ""/"" for base path (path must be writeable)","例如: ""网站地图/"" 或 ""/"" 作为基本路径 (路径必须可写)"
+XML Sitemap,XML 网站地图
+Add Sitemap,添加sitemap.xml
+Site Map,网站地图
+This sitemap no longer exists.,sitemap.xml不存在。
+New Site Map,新的网站地图
+The sitemap has been saved.,sitemap.xml已保存。
+The sitemap has been deleted.,sitemap.xml已被删除。
+We can't find a sitemap to delete.,没有发现要删除的网站地图
+"The sitemap ""%1"" has been generated.",网站地图 %1已经生成
+Something went wrong generating the sitemap.,生成网站地图时出错
+We can't find a sitemap to generate.,没有可生成的网站地图
+The priority must be between 0 and 1.,优先级必须介于0和1之间。
+Yearly,每年
+File handler unreachable,文件处理程序无法访问
+Please define a correct path.,请指定正确的路径
+"Please create the specified folder ""%1"" before saving the sitemap.",在保存网站地图前， 请创建指定的文件夹%1
+"Please make sure that ""%1"" is writable by the web-server.",请确保web服务器可写%1
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.",在文件名中请仅使用字母（a-z、A-Z），数字（0-9）和下划线（_），不允许空格或者其他字符
+Base Only,仅基于
+Error Email Recipient,错误邮件收件人
+Error Email Sender,错误邮件发件人
+Error Email Template,错误邮件模板
+Categories Options,分类选项
+Valid values range from 0.0 to 1.0.,有效值的范围从0.0到1.0。
+Products Options,产品选项
+Add Images into Sitemap,添加图片至网站地图
+CMS Pages Options,CMS页面选择
+Generation Settings,基本设置
+Sitemap File Limits,网站地图文件限制
+Maximum No of URLs Per File,每个文件的最大URL数目
+Maximum File Size,最大文件大小
+File size in bytes.,以字节为单位的文件大小。
+Search Engine Submission Settings,搜索引擎提交设置
+Enable Submission to Robots.txt,启动提交至 Robots.txt
+Link for Google,Google的链接
+Last Generated,上一次生成时间

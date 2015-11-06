@@ -1,0 +1,19 @@
+Export VCL,导出 VCL
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.",TTL值“% 1”无效。请只使用大于或者等于0的数字
+Built-in Application,应用程序
+Varnish Caching,Varnish 缓存
+Full Page Cache,全页缓存
+Caching Application,缓存应用
+Varnish Configuration,Varnish配置
+Access list,访问列表
+"IPs access list separated with ',' that can purge Varnish configuration for config file generation.
+                            If field is empty default value localhost will be saved.","IP访问列表与 ','分离，为生成配置文件可以清除varnish配置。
+                           如果字段为空，默认值本地主机将保存。"
+Backend host,后端主机
+Specify backend host for config file generation. If field is empty default value localhost will be saved.,为配置文件生成指定后端主机。如果字段为空，默认值本地主机将保存。
+Backend port,后端端口
+Specify backend port for config file generation. If field is empty default value 8080 will be saved.,为配置文件生成指定后端端口，如果字段为空，将保存默认值8080
+TTL for public content,TTL公共内容
+Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ,公共内容缓存有效期为秒. 如果字段为空，默认值86400将被保存。 
+Page Cache,页面缓存
+Full page caching.,全页缓存

@@ -1,0 +1,24 @@
+Enabled,激活
+Sort Order,排序
+Title,标题
+"<label class=""label""><span>Make Check payable to:</span></label> %1","<label class=""label""><span>支票收款人:</span></label> %1"
+Send Check to:,发送检查至:
+Purchase Order Number,采购订单号
+Make Check payable to: %1,支票收款人: %1
+Purchase Order Number: %1,采购订单号: %1
+Make Check payable to:,支票收款人:
+Make Check payable to,支票收款人
+Send Check to,支票寄给
+New Order Status,新订单状态
+Payment from Applicable Countries,支付来自可选的国家
+Payment from Specific Countries,支付来自指定的国家
+Minimum Order Total,最小订单数
+Maximum Order Total,最大订单总数
+Check / Money Order,支票/汇票
+Make Check Payable to,支票收款人
+Purchase Order,订购单
+Bank Transfer Payment,银行转账付款
+Instructions,使用说明
+Cash On Delivery Payment,货到付款
+Zero Subtotal Checkout,零金额结帐
+Automatically Invoice All Items,所有商品自动生成发票

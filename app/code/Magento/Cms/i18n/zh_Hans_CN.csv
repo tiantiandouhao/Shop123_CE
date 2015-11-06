@@ -1,0 +1,139 @@
+﻿ID,ID
+Action,操作
+Delete File,删除文件
+-- Please Select --, -- 请选择 -- 
+Custom Design,自定义设计
+Block Information,块信息
+Status,状态
+Disabled,已禁用
+Enabled,已启用
+Save and Continue Edit,保存并继续编辑
+Title,标题
+URL Key,URL Key
+Store View,店铺视图
+Description,描述
+Home,主页
+Browse Files...,浏览文件...
+Content,内容
+General Information,常规信息
+Go to Home Page,前往主页
+px.,像素
+Collapse All,折叠全部
+Expand All,全部展开
+Static Blocks,静态块
+Add New Block,添加新区块
+Save Block,保存区块
+Delete Block,删除区块
+Edit Block '%1',修改块 '%1'
+New Block,新块
+Block Title,区块标题
+Identifier,标识
+Manage Pages,管理页面
+Add New Page,添加新页面
+Save Page,保存页面
+Delete Page,删除页面
+Edit Page '%1',编辑页面 '%1'
+New Page,新页面
+Content Heading,内容标题
+Page Layout,页面布局
+Layout,布局
+Layout Update XML,布局更新 XML
+Custom Design From,自定义设计自：
+Custom Design To,自定义设计至
+Custom Theme,自定义网站模板
+Custom Layout,自定义布局
+Custom Layout Update XML,自定义布局更新 XML
+Design,设计
+Page Information,页面信息
+Page Title,页面标题
+Relative to Web Site Base URL,相对于网站基础链接
+Page Status,页面状态
+Meta Data,元数据
+Keywords,关键词
+Meta Keywords,元关键词
+Meta Description,元描述
+Created,创建
+Modified,修改
+Preview,预览
+Media Storage,媒体存储
+Create Folder...,创建文件夹...
+Delete Folder,删除文件夹
+Insert File,插入文件
+New Folder Name:,新文件夹名称：
+Are you sure you want to delete this folder?,您确认要删除此文件夹吗？
+Are you sure you want to delete this file?,您确认要删除此文件吗？
+Images (%1),图像 (%1)
+Storage Root,存储根目录
+CMS,CMS
+Blocks,静态区块
+This block no longer exists.,区块已不存在。
+Edit Block,编辑区块
+The block has been saved.,区块已保存。
+The block has been deleted.,该区块已被删除。
+We can't find a block to delete.,我们找不到要删除的块
+Pages,页面
+This page no longer exists.,该页面已不存在。
+Edit Page,编辑页面
+The page has been saved.,页面已保存。
+Something went wrong while saving the page.,保存页面时出错
+The page has been deleted.,页面已被删除。
+We can't find a page to delete.,我们找不到要删除的页面
+The directory %1 is not writable by server.,服务器上 %1 目录不可写
+Make sure that static block content does not reference the block itself.,确保静态块内容不引用该块本身。
+Enabled by Default,默认启用
+Disabled by Default,默认被禁用
+Disabled Completely,完全禁用
+A block identifier with the same properties already exists in the selected store.,具有相同属性的区块标识符已在选定的商店存在。
+A page URL key for specified store already exists.,特定商店的页面 URL 密钥已存在。
+The page URL key contains capital letters or disallowed symbols.,页面 URL 密钥包含大写字母或不允许的符号。
+The page URL key cannot be made of only numbers.,页面 URL key不能只包含数字
+"Please correct the folder name. Use only letters, numbers, underscores and dashes.",请更正文件名. 仅使用字母，数字，下划线和破折号。
+We found a directory with the same name. Please try another folder name.,我们找到一个同名目录。请从命名为另外一个文件名。
+We cannot create a new directory.,我们不能创建新目录.
+We cannot delete directory %1.,我们不能删除目录 %1.
+We cannot upload the file.,我们无法上传文件
+We cannot delete root directory %1.,我们不能删除根目录 %1.
+Directory %1 is not under storage root path.,%1不是存储根路径下的目录。
+No files found,没有找到文件
+Block,静态区块
+Template,模板
+Anchor Custom Text,自定义文本锚点
+Anchor Custom Title,自定义标题锚点
+CMS Home Page,CMS 首页
+CMS No Route Page,CMS 缺失页面
+CMS No Cookies Page,CMS 不支持Cookie页面
+Show Breadcrumbs for CMS Pages,显示CMS页面路径
+Browser Capabilities Detection,浏览器功能检测
+Redirect to CMS-page if Cookies are Disabled,如果缓存不可用，重定向到CMS-页
+Show Notice if JavaScript is Disabled,显示JavaScript是否禁用通知
+Show Notice if Local Storage is Disabled,显示本地存储是否禁用通知
+Content Management,内容管理
+WYSIWYG Options,所见即所得编辑器设置
+Enable WYSIWYG Editor,启动所见即所得编辑器
+CMS Page Link,CMS 页面链接
+Link to a CMS Page,链接到 CMS 页面
+CMS Page,CMS 页面
+"If empty, the Page Title will be used",如果为空，将使用页面标题
+CMS Page Link Block Template,CMS页面链接块模板
+CMS Page Link Inline Template,CMS页面链接内联摸板
+CMS Static Block,CMS 静态区块
+Contents of a Static Block,静态区块的内容
+CMS Static Block Default Template,CMS 静态区块默认模板
+Select Items,选择项目
+Filters,过滤器
+Default View,默认视图
+Columns,列
+Reset,重置
+Select,选择
+Main Website,总网站
+Main Website Store,总网站商店
+1 column,1列
+2 columns with left bar,左栏2列
+2 columns with right bar,右栏2列
+3 columns,3列
+Empty,空
+Add Frontend App,添加前端APP
+Frontend App ID,前端APP ID
+Frontend App,前端APP
+You saved this page.,保存页面成功。
+Custom Pages,自定义页面

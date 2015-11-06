@@ -1,0 +1,17 @@
+﻿Website is not specified,网站未指定
+E-mail is not specified,邮件未指定
+Invalid value in website column,网站栏中的无效值
+E-mail is invalid,邮件无效
+Required attribute '%s' has an empty value,所需属性' % '是空值
+Customer with such email and website code doesn't exist,有这样邮箱和网站代码的客户不存在
+Customer address id column is not specified,未指定客户地址标识列
+Customer address for such customer doesn't exist,该客户地址不存在
+Region is invalid,区域无效
+"Row with such email, website and address id combination was already found.",有这样子的邮件，网址和地址组合的行已找到。
+E-mail is duplicated in import file,邮件地址在导入文件中复制
+Orphan rows that will be skipped due default row errors,由于默认航错误，将跳过单独行。
+Invalid value in Store column (store does not exists?),商店列表中的无效值 (商店不存在)
+E-mail and website combination is not found,未找到邮件和网站组合
+Invalid password length,密码长度无效
+CSV,CSV
+Excel XML,Excel XML

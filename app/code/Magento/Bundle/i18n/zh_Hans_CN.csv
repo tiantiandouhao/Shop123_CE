@@ -1,0 +1,80 @@
+None,无
+Close,关闭
+Cancel,取消
+Product,产品
+Price,价格
+ID,ID
+SKU,SKU
+Qty,数量
+Excl. Tax,不含税
+Total,总共
+Incl. Tax,含税
+Total incl. tax,杂费总额
+Delete,删除
+Name,名字
+From,来自
+To,发送至
+Required,必填
+Position,位置
+Percent Discount,折扣百分率
+-- Select --,-- 选择 --
+Dynamic,动态
+Fixed,固定
+Create New Option,创建新的选项
+Bundle Items,捆绑项
+Add Products to Option,添加产品到选项
+Delete Option,删除选项
+Please enter search conditions to view products.,请输入搜索条件以查看产品。
+Use Default Value,使用默认值
+"There is no defined renderer for ""%1"" option type.",% 1选项类型渲染器未定义
+As Low as,低至
+Price Range,价格范围
+Please specify product option(s).,请指定产品选项。
+Please select all required options.,请选择所有必填的选项
+The required options you selected are not available.,您所选的必填选项不可用
+We cannot add this item to your shopping cart.,我们不能将此产品添加到购物车
+N/A,N/A
+Percent,百分之
+Qty:,数量：
+Choose a selection...,选择一个选项...
+Ship Bundle Items,运送捆绑的项目
+Separately,分别
+Together,一起
+Option Title,选项标题
+Store View Title,店铺视图标题
+Input Type,输入类型
+There are no products in this option.,此选项中没有任何产品。
+New Option,新选项
+Default,默认
+Price Type,价格类型
+Default Quantity,默认数量
+User Defined,用户自定义
+Ordered,已订购
+Invoiced,已出发票
+Shipped,已发货
+Refunded,已退款
+Canceled,已取消
+As low as,低至
+From:,来自：
+To:,至：
+Buy %1 with %2 discount each,以每件折扣 %2 买%1
+Go back to product details,返回产品详情
+Customize and Add to Cart,自定义和添加到购物车
+* Required Fields,*必要字段
+Your Customization,您的定制
+Availability,库存
+In stock,有货
+Out of stock,缺货
+Summary,概述
+%1 x %2,%1 x %2
+Availability:,库存:
+Customize %1,自定义 %1
+No options of this product are available.,该产品没有可用选项。
+Gift Message,礼品消息
+Message:,信息：
+Excl. Tax:,不含税:
+Incl. Tax:,含税:
+Total Incl. Tax,杂费总额
+Add Products to New Option,将产品添加到新的选项
+"Add Products to Option ""%1""","将产品添加到选项 ""%1"""
+Add Selected Products,添加所选产品

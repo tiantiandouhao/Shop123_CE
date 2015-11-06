@@ -1,0 +1,62 @@
+All,全部
+Close,关闭
+Products,产品
+Apply,应用
+Design Theme,设计网站模板
+-- Please Select --,-- 请选择 --
+Sort Order,排序顺序
+Save and Continue Edit,保存并继续编辑
+Type,类型
+Page,页面
+label,标签
+Frontend Properties,前端属性
+Categories,分类
+name,名字
+Continue,继续
+CMS,CMS
+1%,1%
+Open Chooser,打开选择器
+Settings,设置
+Template,模板
+Not Selected,非所选
+Widget Insertion,小工具插入
+Insert Widget,插入小工具
+Choose...,选择...
+Widget,小工具
+Widget Type,小工具类型
+Manage Widget Instances,管理小工具实例
+Add New Widget Instance,添加新小工具实例
+"Widget ""%1""","小工具 ""%1"""
+New Widget Instance,新小工具实例
+Custom Layouts,自定义布局
+Page Layouts,页面布局
+Please Select Container First,请先选择容器
+Design Package/Theme,设计 包裹/网站模板
+Widget Instance Title,小工具实例标题
+Assign to Store Views,分配到店铺视图
+Sort Order of widget instances in the same container,在同一容器中的小工具实例的排序顺序
+Layout Updates,布局更新
+Anchor Categories,锚点分类
+Non-Anchor Categories,非锚点分类
+All Product Types,所有产品类型
+Generic Pages,通用页面
+All Pages,所有页面
+Specified Page,指定的页面
+Add Layout Update,添加布局更新
+Remove Layout Update,删除布局更新
+Widget Options,小工具选项
+Widget Instance,小工具实例
+Please specify a Widget Type.,请指定小工具类型.
+Frontend Apps,动态区块
+Please specify a correct widget.,请指定一个正确的小工具
+New Frontend App Instance,新的动态区块实例
+The widget instance has been saved.,该小工具实例已被保存。
+The widget instance has been deleted.,该小工具实例已被删除。
+description,描述
+We cannot create the widget instance because it is missing required information.,因为缺少所需的信息我们不能创建小工具实例。
+Container,容器
+Specific %1,指定的 %1
+Widget ID,小工具ID
+Frontend App ID,动态区块 ID
+Frontend App,动态区块
+Add Frontend App,添加动态区块

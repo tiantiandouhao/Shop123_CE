@@ -1,0 +1,61 @@
+Custom,自定义
+Back,返回
+ID,ID
+SKU,SKU
+No,否
+Action,操作
+Reset,重置
+Edit,编辑
+Two and more slashes together are not permitted in request path,在请求路径不允许两个或以上的斜线在一起
+Anchor symbol (#) is not supported in request path,锚符号（＃）是不支持请求的路径
+Request Path for Specified Store,需要输入商店的路径
+Temporary (302),临时的 (302)
+Permanent (301),永久的 (301)
+Edit URL Rewrite for a Category,为分类编辑网址重写
+Add URL Rewrite for a Category,为分类添加网站重写
+Category:,分类:
+We can't set up a URL rewrite because the product you chose is not associated with a website.,我们不能建立一个网址重写，因为你选择的产品与网站无关
+We can't set up a URL rewrite because the category your chose is not associated with a website.,我们不能建立一个网址重写，因为你选择的分类与网站无关
+Edit URL Rewrite for a Product,为产品编辑网址重写
+Add URL Rewrite for a Product,为产品添加网址重写
+Product:,产品:
+Skip Category Selection,跳过类别选择
+Name,名字
+Status,状态
+Edit URL Rewrite for CMS page,为CMS页编辑网址重写
+Add URL Rewrite for CMS page,为CMS页添加网址重写
+CMS page:,CMS 页:
+Chosen cms page does not associated with any website.,已选择的CMS页和所有的网站都无关
+Title,标题
+URL Key,网址
+Store View,商店界面
+Edit URL Rewrite,编辑网址重写
+Add New URL Rewrite,添加新的网址重写
+Delete,删除
+Are you sure you want to do this?,您确定要这么做吗？
+Save,保存
+Block Information,块信息
+URL Rewrite Information,网址重写信息
+Request Path,请求路径
+Target Path,目标路径
+Redirect,重定向
+Description,描述
+Store,商店
+URL Rewrite Management,网址重写管理
+Add URL Rewrite,添加网址重写
+For category,For 分类
+For product,For 产品
+For CMS page,For CMS 页
+Create URL Rewrite:,创建网址重写:
+URL Rewrites,网址重写
+[New/Edit] URL Rewrite,[New/Edit] 网址重写
+The URL Rewrite has been saved.,网址重写已保存
+An error occurred while saving URL Rewrite.,保存网址重写时出错
+The URL Rewrite has been deleted.,网址重写已删除
+An error occurred while deleting URL Rewrite.,删除网址重写时出错
+Select Category,选择分类
+Options,选项
+Redirect Type,重定向类型
+Main Website,总网站
+Main Website Store,总网站店铺
+Default Store View,默认商店视图

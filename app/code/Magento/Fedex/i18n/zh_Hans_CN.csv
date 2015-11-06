@@ -1,0 +1,72 @@
+None,无
+Sort Order,排序
+Title,标题
+Password,密码
+Unable to retrieve tracking,无法检索跟踪
+Failed to parse xml document: %1,无法解析XML文档: %1
+Europe First Priority,Europe First Priority
+1 Day Freight,1 Day Freight
+2 Day Freight,2 Day Freight
+2 Day,2 Day
+2 Day AM,2 Day AM
+3 Day Freight,3 Day Freight
+Express Saver,速快
+Ground,Ground
+First Overnight,First Overnight
+Home Delivery,送货上门
+International Economy,经济快递服务
+Intl Economy Freight,国际经济快递服务
+International First,国际快递服务
+International Ground,International Ground
+International Priority,优先快递服务
+Intl Priority Freight,国际优先快递服务
+Priority Overnight,联邦快递第二天优先快递
+Smart Post,智能信息站
+Standard Overnight,联邦快递第二天标准快递
+Freight,Freight
+National Freight,National Freight
+Regular Pickup,Regular Pickup
+Request Courier,要求速递
+Drop Box,投件箱
+Business Service Center,营业服务中心
+Station,局
+FedEx Envelope,FedEx 信封
+FedEx Pak,FedEx 快递袋
+FedEx Box,FedEx 快递箱
+FedEx Tube,FedEx 包装盒
+FedEx 10kg Box,FedEx 10kg 箱子
+FedEx 25kg Box,FedEx 25kg 箱子
+Your Packaging,您的包装
+Not Required,不需求
+Adult,成年人
+Direct,直接
+Indirect,迂回
+status,状态
+Empty response,空白的响应
+Key,密钥
+Debug,调试
+Enabled for Checkout,启用结帐
+Calculate Handling Fee,计算手续费
+Handling Applied,处理应用
+Handling Fee,手续费
+Allowed Methods,允许方法
+Displayed Error Message,显示错误信息
+Free Method,免费方法
+Free Shipping Amount Threshold,免费送货金额门槛
+Ship to Applicable Countries,发货到适用国家
+Ship to Specific Countries,发送到指定国家
+Show Method if Not Applicable,显示不可用的方式
+FedEx,FedEx
+Account ID,账户 ID
+Please make sure to use only digits here. No dashes are allowed.,请确保此处仅填写数字，不允许破折号
+Meter Number,仪表编号
+Sandbox Mode,沙盒模式
+Web-Services URL (Production),Web服务网址 (产品)
+Web-Services URL (Sandbox),Web服务网址 (沙盒)
+Packages Request Type,包装要求类型
+Packaging,包装
+Dropoff,减少
+Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight),最大包装重量（请参阅您的装运承运人的最大支持装运重量）
+Residential Delivery,货到付款
+Hub ID,集线器 ID
+The field is applicable if the Smart Post method is selected.,若选择职能递送方法，该字段适用

@@ -1,0 +1,32 @@
+ID,ID
+Status,状态
+Disabled,禁用
+Enabled,激活
+Store View,商店界面
+Content,内容
+Text,纯文本
+Terms and Conditions,条款
+Add New Condition,添加新条款
+Save Condition,保存条款
+Delete Condition,删除条款
+Edit Terms and Conditions,编辑条款
+New Terms and Conditions,新条款
+Terms and Conditions Information,条款明细
+Condition Name,条款名称
+Show Content as,内容显示格式
+HTML,HTML
+Checkbox Text,选框提示文字
+Content Height (css),内容显示高度  (css)
+Content Height,内容显示高度 
+Condition,条款
+This condition no longer exists.,该条款不存在
+New Condition,新条款
+Edit Condition,编辑条款
+The condition has been saved.,该条款已保存
+Something went wrong while saving this condition.,保存条款时出错
+The condition has been deleted.,条款已删除
+Something went wrong  while deleting this condition.,删除条款时出错
+Sales,销售
+Checkout Conditions,购买条款
+Checkout Terms and Conditions,购买条款
+Enable Terms and Conditions,启用购买条款

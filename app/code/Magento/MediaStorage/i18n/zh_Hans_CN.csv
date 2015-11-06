@@ -1,0 +1,10 @@
+﻿"Requested resource not found",未找到所需资源
+"File %1 does not exist",文件 %1 不存在
+"File %1 is not readable","文件 %1 不可读
+"Parent directory does not exist: %1",父目录不存在: %1
+"File system",文件系统
+"Unable to save file ""%1"" at ""%2""","不能在 %2 中保存 %1
+"Wrong file info format",错误的文件信息格式
+"Please set available and/or protected paths list(s) before validation.",请设置有效并/或受保护的路径列表，随后再验证。
+"Unable to create directory: %1",无法创建目录: %1
+"Unable to save file: %1",无法保存目录: %1

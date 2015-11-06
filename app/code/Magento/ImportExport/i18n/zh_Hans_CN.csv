@@ -1,0 +1,100 @@
+-- Please Select --,-- 请选择 --
+Status,状态
+From,从
+To,至
+Export,导出
+label,标签
+Attribute Code,属性码
+Import,导入
+Continue,继续
+Attribute Label,属性标签
+Export Settings,导出设置
+Entity Type,实体类型
+Export File Format,导出文件格式
+"Attribute does not has options, so filtering is impossible",属性没有选项， 所以不能过滤
+Exclude,不包括
+Filter,过滤器
+Unknown attribute filter type,未知的属性过滤器类型
+Check Data,检查数据
+Import Settings,导入设置		
+Import Behavior,导入行为		
+File to Import,文件导入		
+Select File to Import,选择文件导入		
+Import/Export,导入/导出		
+Please correct the data sent,请更正发送的数据.		
+Import successfully done,已导入成功		
+File does not contain data. Please upload another one,文件不包含数据。请上传另一个文件		
+"File is valid! To start import process press ""Import"" button",文件有效！要开始导入，请单击“导入”按钮		
+"File is valid, but import is not possible",文件有效，但无法导入		
+"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4",检查行数: %1, 检查实体: %2, 无效行数: %3, 总计错误: %4	
+Please fix errors and re-upload file.,请修复错误并重新上传文件。		
+File was not uploaded,文件未上传		
+Data is invalid or file is not uploaded,数据无效，或文件未被上传		
+File is totally invalid. Please fix errors and re-upload file.,文件是完全无效的。请修复错误并重新上传文件。		
+Errors limit (%1) reached. Please fix errors and re-upload file,达到错误限制 (%1).请修复错误并重新上传文件。		
+"Please fix errors and re-upload file or simply press ""Import"" button' ' to skip rows with errors",请修复错误并重新上传文件，或者按“导入”按钮来跳过错误行
+"File is partially valid, but import is not possible",文件部分有效，但无法导入		
+in rows:,行:		
+The total size of the uploadable files can't be more than %1M,可上传文件的总共大小不能超过%1M		
+System doesn't allow to get file upload settings,系统不允许获得文件上传设置		
+Please enter a correct entity model,请输入正确的实体模型		
+Entity adapter object must be an instance of %1 or %2,实体适配器对象必须是 %1 或 %2 的实例		
+The input entity code is not equal to entity adapter code.,输入实体代码不等于实体适配器代码。		
+Please enter a correct entity.,请输入正确的实体。		
+Adapter object must be an instance of %1,适配器对象必须是 %1的实例		
+Please correct the file format.,请更正文件格式		
+Begin export of %1,开始导出 %1		
+There is no data for export,没有数据导出		
+Exported %1 rows.,导出 %1 行		
+Export has been done.,已完成导出		
+Please provide filter data.,请提供过滤数据。		
+Cannot determine attribute filter type,无法确定属性筛选器类型		
+Entity is unknown,未知实体		
+File format is unknown,未知的文件格式		
+Please correct the value for '%1' column,请更正“% 1”列的值		
+Please specify writer.,请注明作者		
+Destination file path must be a string,目标文件路径必须为字符串		
+Destination directory is not writable,目标目录不可写		
+Destination file is not writable,目标文件不可写		
+Header column names already set,标题列名称已设置		
+in rows,行		
+Validation finished successfully,成功完成验证		
+File does not contain data.,文件不包含数据.		
+"Begin import of ""%1"" with ""%2"" behavior",以 %2 行为开始导入 %1		
+Import has been done successfuly.,导入成功		
+File was not uploaded.,未上传文件。		
+Uploaded file has no extension,已上传的文件没有扩展名		
+Source file moving failed,源文件移动失败		
+Begin data validation,开始数据验证		
+Done import data validation,导入数据验证		
+Invalid behavior token for %1,无效的行为标记为 %1		
+Source is not set,源未设置		
+Please correct the value for '%s'.,请更正 %s 的值		
+Duplicate Unique Attribute for '%s',%s 复制独特属性		
+Cannot find required columns: %1,找不到所需的列：%1		
+"Columns number: ""%1"" have empty headers",列号：%1 没有标题		
+"Column names: ""%1"" are invalid",栏目名称：“%1”无效		
+The adapter type must be a non empty string.,适配器类型必须是非空字符串。		
+Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource,适配器必须是 \Magento\ImportExport\Model\Import\AbstractSource 的一个实例
+Please specify a source.,请指定一个源。		
+Cannot get autoincrement value,不能自动增量值		
+Error in data structure: %1 values are mixed,数据结构中的错误：% 1值是混合的		
+Add/Update,添加/更新		
+Field separator,字段分隔符		
+Multiple value separator,多值分隔符		
+Images File Directory,图像文件目录		
+"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir",对于类型“本地服务器”使用相对路径来安装Magento，例如 var/export	 var/import	" var/export/some/dir"""
+Replace Existing Complex Data,替换现有的复杂数据		
+Delete Entities,删除实体		
+Add/Update Complex Data,添加/更新复杂数据		
+Custom Action,自定义操作		
+Entity Attributes,编辑属性		
+Validation Results,验证结果		
+Make sure your file isn't more than 80M.,请确保您的文件大小不超过80M。		
+Download Sample File,下载示例文件		
+Advanced Pricing,高级定价系统		
+Customers Main File,客户主文件		
+Replace,替换		
+Stop on Error,发生错误时停止		
+Skip error entries,跳过错误项		
+Allowed Errors Count,允许误差计数		

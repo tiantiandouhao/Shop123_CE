@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Cron/etc/crontab.xsd">
+    <group id="index">
+        <job name="indexer_reindex_all_invalid" instance="Magento\Indexer\Model\Processor" method="reindexAllInvalid">
+            <schedule>* * * * *</schedule>
+        </job>
+        <job name="indexer_update_all_views" instance="Magento\Indexer\Model\Processor" method="updateMview">
+            <schedule>* * * * *</schedule>
+        </job>
+        <job name="indexer_clean_all_changelogs" instance="Magento\Indexer\Model\Processor" method="clearChangelog">
+            <schedule>0 * * * *</schedule>
+        </job>
+    </group>
+</config>

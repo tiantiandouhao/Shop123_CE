@@ -1,0 +1,46 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+/** @var $block \Magento\ProductAlert\Block\Email\Price */
+?>
+<?php if ($_products = $block->getProducts()): ?>
+<p><?= __('Price change alert! We wanted you to know that prices have changed for these products:') ?></p>
+<table>
+<?php /** @var $_product \Magento\Catalog\Model\Product */ ?>
+<?php foreach ($_products as $_product): ?>
+    <tr>
+        <td class="col photo">
+            <a href="<?= $_product->getProductUrl() ?>" title="<?= $block->escapeHtml($_product->getName()) ?>" class="product photo">
+                <img src="<?= $block->getThumbnailUrl($_product) ?>" height="<?= $block->getThumbnailSize() ?>" alt="<?= $block->escapeHtml($_product->getName()) ?>" class="photo image" />
+            </a>
+        </td>
+        <td class="col item">
+            <p>
+                <strong class="product name">
+                    <a href="<?= $_product->getProductUrl() ?>"><?= $block->escapeHtml($_product->getName()) ?></a>
+                </strong>
+            </p>
+            <?php if ($shortDescription = $block->getFilteredContent($_product->getShortDescription())): ?>
+                <p><small><?= $shortDescription ?></small></p>
+            <?php endif; ?>
+            <?= $block->getProductPriceHtml(
+                    $_product,
+                    \Magento\Catalog\Pricing\Price\FinalPrice::PRICE_CODE,
+                    \Magento\Framework\Pricing\Render::ZONE_EMAIL,
+                    [
+                        'display_label' => __('Price:')
+                    ]
+                );
+                ?>
+            <p><small><a href="<?= $block->getProductUnsubscribeUrl($_product->getId()) ?>"><?= __('Click here to stop alerts for this product.') ?></a></small></p>
+        </td>
+    </tr>
+<?php endforeach; ?>
+</table>
+<p><a href="<?= $block->getUnsubscribeUrl() ?>"><?= __('Unsubscribe from all price alerts') ?></a></p>
+<?php endif; ?>

@@ -1,0 +1,52 @@
+﻿Qty,数量
+ALL GROUPS,所有分组
+"Unsupported product type ""%1"".","不支持的产品类型 ""%1""."
+Manage Stock,管理库存
+Minimum Qty Allowed in Shopping Cart,购物车中允许的最少数量
+Maximum Qty Allowed in Shopping Cart,购物车中允许的最多数量
+Backorders,缺货订单
+Notify for Quantity Below,需要提醒的最少数量
+Enable Qty Increments,启用数量递增
+Qty Increments,数量递增
+In Stock,有货
+Out of Stock,无货
+Customer Group,客户分组
+Minimum Qty,最少商品数量
+Add Minimum Qty,添加最少商品数量
+Stock Status,库存状态
+Index Product Stock Status,索引产品库存状态
+This product is out of stock.,该产品已缺货
+Some of the products are currently out of stock.,目前部分产品已缺货
+The stock item for Product in option is not valid.,产品的库存选项无效。
+Undefined product type,产品类型未定义
+%1 is not a correct comparison method.,%1 不是正确比较法.
+No Backorders,无延期交货
+Allow Qty Below 0,允许库存数量低于0
+Allow Qty Below 0 and Notify Customer,允许库存数量低于0并提醒客户
+Not all of your products are available in the requested quantity.,不是所有的产品在您要求的数量上有货
+We cannot specify a product identifier for the order item.,无法指定订购商品的标识
+The fewest you may purchase is %1.,你可以购买最少为 %1
+Please correct the quantity for some products.,请纠正某些产品的数量。
+The most you may purchase is %1.,您可以购买最多为 %1.
+"We don't have as many ""%1"" as you requested.",我们没有尽可能多的你所要求的 %1
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We don't have as many ""%1"" as you requested, but we'll back order the remaining %2."
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.",产品%1我们没有要求的数量，所以我们会对产品%2延期交货
+You can buy %1 only in increments of %2.,您只有在增加%2购买量时才能购买%1.
+You can buy this product only in increments of %1.,只有在增加%1的购买量时您才能购买此产品.
+%1 is available for purchase in increments of %2,增加%2的购买量时可购买%1
+Only %1 left,仅剩余 %1
+Product Name,产品名称
+Inventory,库存
+Stock Options,库存选项
+Decrease Stock When Order is Placed,生成订单后减少库存”
+Set Items' Status to be In Stock When Order is Cancelled,"订单取消时将相关商品状态重置为 ""有库存"""
+Display Out of Stock Products,显示缺货产品
+Products will still be shown by direct product URLs.,产品仍将通过直接产品网址显示。
+Only X left Threshold,Only X left Threshold
+Display products availability in stock in the frontend,在前端显示产品库存可见
+Product Stock Options,产品库存选项
+"Please note that these settings apply to individual items in the cart, not to the entire cart.
+                ",请注意这些设置适用于购物车中的个别项目，而不是整个购物车
+.
+Qty for Item's Status to Become Out of Stock,此数量是将商品状态设置为库存不足
+Automatically Return Credit Memo Item to Stock,自动返回到信用卡明细

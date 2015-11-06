@@ -1,0 +1,105 @@
+All,所有
+Custom,自定义
+Back,返回
+ID,ID
+Reset,重置
+Account Information,帐户信息
+User Name,用户名称
+First Name,名字
+Last Name,姓
+Email,邮箱
+User Email,用户邮箱
+New Password,新密码
+Password Confirmation,密码确认
+Interface Locale,界面区域
+Status,状态
+Are you sure you want to do this?,您确定要这么做吗？
+System,系统
+Access denied.,拒绝访问。
+Log into Shop123 Admin Page,登录进入Shop123管理页面
+Shop123 Admin Panel,Shop123管理面板
+Active,激活
+Role,角色
+Inactive,未激活
+Password,密码
+Reset Password,重置密码
+If there is an account associated with %1 you will receive an email with a link to reset your password.,如果有与%1关联的账号，您将收到一封邮件，里面是重置密码的链接
+Your password reset link has expired.,您的密码重置链接已过期
+Your password has been updated.,您的密码已更新
+The first name cannot be empty.,名字不能为空
+The last name cannot be empty.,姓不能为空
+"Please correct this email address: ""%1"".","请更正这个邮箱的地址: ""%1""."
+Back to Login,返回登录
+Confirm New Password,确认新密码
+Reset a Password,重置一个密码
+Email Address:,邮箱地址:
+Delete Role,删除角色
+Save Role,保存角色
+Roles,角色
+Add New Role,增加新的角色
+Role Information,角色信息
+Role Users,角色用户
+User ID,用户ID
+Role Resources,角色资源
+Role Info,角色信息
+Role Name,角色名字
+Add New User,添加新用户
+Users,用户
+Save User,保存用户
+Delete User,删除用户
+Edit User '%1',编辑用户 '%1'
+New User,新用户
+This account is,账户是
+Account Status,账户状态
+User Roles Information,用户角色信息
+Assigned,指定
+User Information,用户信息
+User Info,用户信息
+User Role,用户角色
+Please correct this email address:,请更正邮箱地址:
+The email address is empty.,邮件地址是空的
+Please correct the password reset token.,请更正密码重置标记.
+Please specify the correct account and try again.,请指定正确的帐户，然后再试一次。
+Permissions,权限
+This user no longer exists.,该用户不再存在。
+Edit User,编辑用户
+You saved the user.,您已保存该用户
+You cannot delete your own account.,您不能删除自己的账号
+You deleted the user.,您删除了你您的用户
+We can't find a user to delete.,没有要删除的用户
+Edit Role,编辑角色
+New Role,新角色
+You cannot delete self-assigned roles.,不能删除自我分配的角色。
+You deleted the role.,您已删除角色
+An error occurred while deleting this role.,删除角色时出错
+This role no longer exists.,该角色不存在
+You saved the role.,您保存了该角色
+An error occurred while saving this role.,保存角色时出错
+A user with the same user name or email already exists.,有此用户名或邮箱的用户已存在
+User Name is a required field.,用户名是必填字段
+First Name is a required field.,名是必填字段
+Last Name is a required field.,姓是必填字段
+Please enter a valid email.,请输入有效的邮箱地址
+The user name cannot be empty.,用户名不能为空
+Password is required field.,密码是必需的字段。
+Your password must be at least %1 characters.,您的密码必须至少为%1个字符。
+Your password must include both numeric and alphabetic characters.,您的密码必须包含数字和字母。
+Your password confirmation must match your password.,您的密码确认必须您的密码匹配。
+This account is inactive.,该账户未激活
+Forgot your user name or password?,忘记您的用户名或者密码？
+Retrieve Password,检索密码
+Forgot your password?,忘记您的密码？
+Roles Resources,角色资源
+Resource Access,资源访问
+Resources,资源
+Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,警告!\r\n此操作将把该用户从已分配的角色中删除\r\n您确认吗？
+Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,警告!\r\n此操作将把这些用户从已分配的角色中删除\r\n您确认吗？
+Reset Password Template,重置密码模板
+All Users,所有用户
+Locked Users,锁定用户
+User Roles,用户角色
+Enter your email address.  You will receive an email with a link to reset your password.,请输入您的邮箱.您将接收到密码重置的邮件
+Email address,邮箱地址
+Retrieve Password,接收密码
+Back to Sign in,返回登录
+Password Help,找回密码帮助

@@ -1,0 +1,18 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<?php if ($instructions = $block->getInstructions()): ?>
+    <ul class="form-list checkout-agreements" id="payment_form_<?php echo $block->getMethodCode() ?>" style="display:none;">
+        <li>
+            <div class="<?php echo $block->getMethodCode() ?>-instructions-content agreement-content">
+                <?php echo nl2br($instructions) ?>
+            </div>
+        </li>
+    </ul>
+<?php endif; ?>

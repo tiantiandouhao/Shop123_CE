@@ -1,0 +1,13 @@
+﻿Enable,激活
+Dynamic,动态
+Constant,常量
+"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","转换颜色值是无效的""%1"". 请设置十六进制6位值"
+"Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","转换ID值无效 ""%1"".转换ID应该是一个整数。"
+Google AdWords,谷歌关键字广告
+Conversion ID,转换 ID
+Conversion Language,转换语言
+Conversion Format,转换格式
+Conversion Color,转换颜色
+Conversion Label,转换标签
+Conversion Value Type,转换值类型
+Conversion Value,转换值

@@ -1,0 +1,16 @@
+Entity type model must be an instance of' ' \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType,实体型模式必须是一个实例 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType
+There are no product types available for export,没有可以导出的产品
+Entity type model must be an instance of ' 'Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType,实体型模式必须是一个实例 Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType
+Invalid custom option store.,无效的自定义选项存储。
+Invalid custom option type.,无效的自定义选项类型.
+Empty custom option title.,空白的自定义选项标题.
+Invalid custom option price.,无效的自定义选项价格。
+Invalid custom option maximum characters value.,自定义选项的最大字符数的值无效。
+Invalid custom option sort order.,无效的自定义选项排序顺序。
+Invalid custom option value price.,无效的自定义选项值价格。
+Invalid custom option value sort order.,无效的自定义选项值排序顺序。
+Custom option with such title already declared in source file.,拥有这样标题的自定义选项已在源文件中声明
+There are several existing custom options with such name.,有几个现有的自定义选项拥有这样的名称。
+Custom options have different types.,自定义选项有不同类型。
+Option entity must have a parent product entity.,选项实体必须有一个上级（父）产品实体
+Please correct the parameters.,请更正参数。

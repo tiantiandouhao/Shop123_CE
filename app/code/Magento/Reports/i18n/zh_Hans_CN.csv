@@ -1,0 +1,236 @@
+﻿Product,产品名
+Price,价格
+Quantity,商品的数量
+Products,产品
+ID,ID
+SKU,SKU
+Customers,客户
+Shopping Cart,购物车
+No,否
+Subtotal,小计
+Discount,折扣
+Action,操作
+Total,总数
+Add to Cart,添加到购物车
+Orders,订单
+Bestsellers,最畅销
+Customer,顾客姓名
+Guest,来宾
+Items,产品
+Results,结果
+Uses,使用
+Average,平均
+Order Quantity,下单的数量
+Views,浏览数量
+Revenue,收入
+Tax,传真
+Shipping,运送
+First Name,名字
+Last Name,姓氏
+Email,电子邮件
+Refresh,刷新
+Store,商店
+Yes,是
+Name,姓名
+Title,标题
+Description,描述
+From,来自
+To,发送至
+Dashboard,控制面板
+IP Address,IP地址
+All Websites,所有网站
+Tax Amount,纳税总额
+Invoiced,已出发票
+Refunded,已退款
+Canceled,已取消
+In stock,有货
+Out of stock,缺货
+Day,天
+Month,月
+Year,年
+Search Query,搜索查询
+Search Terms,搜索条件
+Add to Wishlist,添加到收藏
+Add to Compare,添加并比较
+Items in Cart,购物车中的项目
+Sales,销售
+Created,已创建
+Product Reviews,产品评价
+Updated,已更新
+Reports,报告
+Details,详情
+Unlimited,无限的
+Fulfilled,完成
+Filter,过滤器
+Link,链接
+Report,报告
+Added,已添加
+Coupon Code,优惠劵
+New Accounts,新账户数量
+Customers by number of orders,按订单数排列顾客
+Customers by Orders Total,按订单数量排列顾客
+Match Period To,匹配期间从
+Period,周期
+Empty Rows,空行
+Invalid date specified,指定了无效日期
+We couldn't find records for this period.,我们找不到这段时期的记录.
+Show Reviews,显示评价
+Products Report,产品报告
+Downloads,下载
+Purchases,购买
+CSV,CSV
+Excel XML,Excel XML
+Viewed,浏览数目
+Purchased,已购买
+Low stock,低库存
+Products Ordered,产品已下单
+Most Viewed,最受欢迎
+Show Report,显示报告
+Interval,周期
+Refresh Statistics,刷新状态
+Customers Reviews,客户评价
+Reviews for %1,%1的评价
+Detail,详情
+Products Reviews,产品评价
+Products Bestsellers Report,畅销产品报告
+Coupons Usage Report,优惠券使用报告
+Price Rule,共享购物车规则
+Sales Subtotal,销售小计
+Sales Discount,销售折扣
+Sales Total,销售总计
+Total Invoiced vs. Paid Report,发票总数 vs. 付款报告
+Invoiced Orders,已开票订单
+Total Invoiced,发票总计
+Paid Invoices,付款发票
+Unpaid Invoices,未付款发票
+Total Refunded Report,退款总数报告
+Refunded Orders,已退款订单
+Total Refunded,退款总计
+Online Refunds,在线退款
+Offline Refunds,离线退款
+Total Ordered Report,订单总数报告
+Sales Items,销售产品
+Profit,有益
+Paid,已付
+Sales Tax,销售税
+Sales Shipping,销售运费
+Total Shipped Report,发货总数报告
+Carrier/Method,载体/方法
+Total Sales Shipping,销售运费总计
+Total Shipping,运费总计
+Order Taxes Report Grouped by Tax Rate,按税率分组的订购税费报告
+Rate,费率
+Abandoned carts,废弃的购物车
+Applied Coupon,已应用的优惠券
+Products in carts,购物车中的产品
+Products in cart,购物车中的产品
+Carts,购物车
+Wish Lists,收藏夹
+Wishlist Purchase,购买自收藏夹
+Wish List vs. Regular Order,收藏夹 vs.常规订单
+Times Deleted,已删除时间数量
+Index type is not valid,索引类型不正确
+Search Terms Report,搜索词报告
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, ' 'click <a href=""%3"">here</a>.","最近更新: %1. 刷新最后一天的 <a href=""%2"">statistics</a>,点击<a href=""%3"">here</a>."
+New Accounts Report,新账户报告
+Order Count Report,订单计数报告
+Customers by Number of Orders,客户订单数量
+Order Total Report,订单总数报告
+Ordered Products Report,已定产品报告
+Product Views Report,产品查看报告
+Products Most Viewed Report,查看最多产品报告
+Low Stock Report,低库存报告
+Low Stock,库存量低
+Downloads Report,下载报告
+Review,评价
+Reviews,评价
+Customer Reviews Report,客户评价报告
+Customers Report,顾客报告
+Product Reviews Report,产品评价报告
+Sales Report,销售报告
+Best Sellers Report,最畅销产品报告
+Tax Report,税务报告
+Shipping Report,发货报告
+Invoice Report,发票报告
+Refunds Report,退款报告
+Coupons Report,优惠劵报告
+Coupons,优惠券
+Customer Shopping Carts,购物车
+Products in Carts,购物车中的产品
+Products in Cart,购物车中的产品
+Abandoned Carts,放弃购物车
+Statistics,状态
+No report code is specified.,没有指定报表代码
+Recent statistics have been updated.,更新了最近的统计
+We can't refresh recent statistics.,无法刷新最近的统计
+We updated lifetime statistics.,更新了全部统计
+We can't refresh lifetime statistics.,无法刷新全部统计
+The product type filter specified is incorrect.,指定的产品类型筛选器不正确。
+Order Taxes Report Grouped by Tax Rates,按税率分组的订单税报告
+Total Invoiced VS Paid Report,总的发票VS支付报告
+Promotion Coupons Usage Report,优惠券使用报告
+Most Viewed Products Report,查看最多产品报告
+Show By,显示
+Select Date,选择日期
+Customers that have wish list: %1%,有收藏夹的客户: %1%
+Number of wish lists: %1,收藏夹数量: %1
+Number of items bought from a wish list: %1,从收藏夹中购买的产品数: %1
+Number of times wish lists have been shared (emailed): %1,收藏夹中已经共享（邮件）的次数: %1
+Number of wish list referrals: %1,收藏夹引用的次数: %1
+Number of wish list conversions: %1,收藏夹转换的次数: %1
+Show Report For:,显示报告为:
+Recently Viewed,最近查看过的
+Recently Compared Products,最近比较过的产品
+Recently Viewed Products,最近查看过的产品
+Recently Compared,最近比较过的
+Recently Viewed/Compared Products,最近浏览/比较过的产品
+Show for Current,显示当前
+Default Recently Viewed Products Count,默认最近查看产品总计
+Default Recently Compared Products Count,默认最近比较产品总计
+Year-To-Date Starts,从今年哪一天开始
+Current Month Starts,本月开始
+Select day of the month.,选择该月的某一天
+List of Products Recently Viewed by Visitor,最近由访客浏览过的产品列表
+Number of Products to display,显示产品的数量
+Viewed Products Grid Template,查看过的产品网格模板
+Viewed Products List Template,查看的产品列表模板
+Viewed Products Images and Names Template,查看产品图片和名称模板
+Viewed Products Names Only Template,仅查看产品名称模板
+Viewed Products Images Only Template,仅查看产品图片模板
+List of Products Recently Compared and Removed from the Compare List by Visitor,最近由访客从比较列表中比较和删除的产品列表
+Compared Products Grid Template,比对的产品网格模板
+Compared Products List Template,比对的产品列表模板
+Compared Products Images and Names Template,产品图片和名称比较模板
+Compared Product Names Only Template,仅产品名称比较模板
+Compared Product Images Only Template,仅产品图片比较模板
+Hits,提示
+Stock Quantity,库存数量
+Ordered Quantity,订购数量
+This report uses timezone configuration data. Be sure to refresh lifetime statistics any time you change store timezone.,报告采用时区配置数据. 改变商店时区时请一定要随时刷新全部统计
+Average (Approved),平均（批准）
+Last Review,上次评价
+Order Created Date,订单创建时间
+Order Updated Date,订单更新时间
+"The Order Updated Date report is displayed in real-time, and does not need to be refreshed.",订单更新日期报告实时显示，无需刷新
+Last Invoice Created Date,最近发票创建时间
+Last Credit Memo Created Date,最近信用备忘录创建时间
+First Invoice Created Date,发票最新创建时间
+Refresh Lifetime Statistics,刷新全部统计
+Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.,您确认要刷新生命期数据吗？此操作过程可能会影响性能。
+Refresh Statistics for the Last Day,刷新昨天的状态
+Are you sure you want to refresh statistics for last day?,您确定要刷新最后一天的统计吗
+undefined,未定义
+By Customers,按用户查看
+By Products,按产品查看
+Order Count,订单数
+Refresh statistics,静态刷新统计报表
+Refunds,退款
+We updated lifetime statistic.,静态报表数据已更新
+The Order Updated report is created in real time and does not require a refresh,该订单更新报告是实时生成的，不需要刷新
+Date Used,使用日期
+Order Created,订单创建
+Order Updated,订单更新
+Applies to Any of the Specified Order Statuses,适用于任何指定的订单状态
+Show Actual Values,显示实际值
+Cart Price Rule,购物车价格规则
+We can't find records for this period,我们无法找到这一时期的记录

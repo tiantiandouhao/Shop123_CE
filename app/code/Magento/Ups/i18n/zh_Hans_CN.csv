@@ -1,0 +1,111 @@
+None,无
+Sort Order,排序
+Title,标题
+label,标签
+Password,密码
+Pounds,磅
+Kilograms,公斤
+Ground,陆运
+Not Required,不需要
+status,状态
+Empty response,空白的回应
+Mode,模式
+UPS Next Day Air,UPS 航空次日运达
+UPS Second Day Air,UPS 航空第二个工作日运达
+UPS Ground,UPS 陆运
+UPS Worldwide Express,UPS 全球特快
+UPS Worldwide Expedited,UPS 全球快捷
+UPS Standard,UPS Standard
+UPS Three-Day Select,UPS Three-Day Select
+UPS Next Day Air Saver,UPS Next Day Air Saver
+UPS Next Day Air Early A.M.,UPS Next Day Air Early A.M.
+UPS Worldwide Express Plus,UPS全球特快加急
+UPS Second Day Air A.M.,UPS Second Day Air A.M.
+UPS Saver,UPS Saver
+UPS Worldwide Saver,UPS 全球速快
+UPS Express,UPS 包裹快递
+UPS Expedited,全球快捷
+UPS Express Early A.M.,UPS Express Early A.M.
+UPS Worldwide Express PlusSM,UPS 全球特快加急
+UPS Today Standard,UPS Today Standard
+UPS Today Dedicated Courrier,UPS Today Dedicated Courrier
+UPS Today Intercity,UPS Today Intercity
+UPS Today Express,UPS Today Express  
+UPS Today Express Saver,UPS Today Express Saver
+UPS Express Plus,UPS Express Plus
+Next Day Air Early AM,次日早晨到达
+Next Day Air Early AM Letter,次日早晨到达信件
+Next Day Air,次日到达
+Next Day Air Letter,次日到达信件
+Next Day Air Intra (Puerto Rico),国内次日到达(波多黎各)
+Next Day Air Saver,Next Day Air Saver
+Next Day Air Saver Letter,Next Day Air Saver Letter
+2nd Day Air AM,第二天早晨送达
+2nd Day Air AM Letter,第二天早晨送达信件
+2nd Day Air,第二天送达
+2nd Day Air Letter,第二天送达信件
+3 Day Select,3 Day Select
+Ground Commercial,Ground Commercial
+Ground Residential,Ground Residential
+Canada Standard,Canada Standard
+Worldwide Express,国际标准固定运费
+Worldwide Express Saver,全球特快
+Worldwide Express Letter,全球特快信件
+Worldwide Express Plus,全球特急快递
+Worldwide Express Plus Letter,全球特急快递信件
+Worldwide Expedited,Worldwide Expedited
+Customer Packaging,客户包裹
+UPS Letter Envelope,UPS信封
+Customer Supplied Package,客供包装
+UPS Tube,UPS Tube
+PAK,PAK
+UPS Express Box,UPS 快递箱
+UPS Worldwide 25 kilo,UPS Worldwide 25 kilo
+UPS Worldwide 10 kilo,UPS Worldwide 10 kilo
+Pallet,货盘
+Small Express Box,小号快递箱
+Medium Express Box,中号快递箱
+Large Express Box,大号快递箱
+Residential,住宅区
+Commercial,写字楼
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.",对不起，出了一些错。请再试一次或联系我们，我们会尽力帮助。
+"We can't convert a rate from ""%1-%2"".",不能从 %1-%2 转换税率
+Cannot retrieve shipping rates,无法检索运费
+error_message,错误信息
+Delivery Confirmation,交货确认
+Signature Required,需要签字
+Adult Signature Required,需要成人签名
+United Parcel Service,联合包裹运输服务
+United Parcel Service XML,美国联合包裹服务XML
+User ID,用户 ID
+Container,货箱
+Debug,调试工具
+Gateway URL,网关链接
+Enabled for Checkout,启用结帐
+Calculate Handling Fee,计算手续费
+Handling Applied,处理应用
+Handling Fee,手续费
+Weight Unit,重量单位
+Allowed Methods,允许的方法
+Displayed Error Message,显示错误信息
+Free Method,免费方式
+Free Shipping Amount Threshold,免费送货金额门槛
+Ship to Applicable Countries,发货到适用国家
+Ship to Specific Countries,发货到指定国家
+Show Method if Not Applicable,显示不可用的方式
+Packages Request Type,包裹要求类型
+Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight),最大包装重量（请参阅您的装运承运人的最大支持装运重量）
+UPS,UPS
+Access License Number,访问许可证数量
+Destination Type,目标类型
+Gateway XML URL,网关XML链接
+Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight),最小包装重量（请参阅您的装运承运人的最低支持装运重量）
+Origin of the Shipment,发货地
+Pickup Method,领取方式
+Tracking XML URL,跟踪XML链接
+UPS Type,UPS类型
+Live account,交易帐户
+Enable Negotiated Rates,启用协议价格
+Shipper Number,Shipper Number
+Required for negotiated rates; 6-character UPS,要求协议利率，6个字符的UPS
+This enables or disables SSL verification of the Magento server by UPS.,这将启用或禁用SSL通过UPS的Magento服务器的验证。

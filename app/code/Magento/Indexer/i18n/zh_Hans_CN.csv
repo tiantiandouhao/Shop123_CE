@@ -1,0 +1,19 @@
+Status,状态
+Description,描述
+Never,从不
+Updated,已更新
+Mode,模式
+Update on Save,保存时更新
+Ready,准备好的
+Processing,处理
+Indexer Management,索引管理
+Update by Schedule,按计划更新
+Reindex required,索引变化
+Index Management,索引管理
+Please select indexers.,请选择索引。
+A total of %1 indexer(s) have been turned Update on Save mode on.,总计 %1索引(s)已被保存时更新模式。
+We couldn't change indexer(s)' mode because of an error.,由于错误，我们不能更改索引模板
+A total of %1 indexer(s) have been turned Update by Schedule mode on.,总计 %1索引(s)已按照计划更新模式。
+State for the same indexer,相同的索引状态
+State for the same view,相同视图状态
+Indexer,索引

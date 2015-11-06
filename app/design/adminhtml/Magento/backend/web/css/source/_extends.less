@@ -1,0 +1,93 @@
+// /**
+//  * Copyright © 2015 Magento. All rights reserved.
+//  * See COPYING.txt for license details.
+//  */
+
+//
+//  Styles Extends
+//  _____________________________________________
+
+//
+//  Icons
+//  ---------------------------------------------
+
+.abs-icon {
+    -webkit-font-smoothing: antialiased;
+    font-family: @icons-admin__font-name;
+    line-height: 1;
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+}
+
+//
+//  Forms
+//  ---------------------------------------------
+
+//  Validation
+.validation-symbol {
+    &:after {
+        content: '*';
+        color: @validation__color;
+        font-weight: @font-weight__regular;
+        margin-left: 3px;
+    }
+}
+
+//
+//  Modals
+//  ---------------------------------------------
+
+.abs-modal-overlay {
+    background: @popup-overlay__background-color;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+//
+//  Other
+//  ---------------------------------------------
+
+//  Visually hidden
+.abs-visually-hidden {
+    .visually-hidden();
+}
+
+.extend__visually-hidden() {
+    &:extend(.abs-visually-hidden all);
+}
+
+//  Revert visually hidden
+.abs-visually-hidden-reset {
+    .visually-hidden-reset();
+}
+
+.extend__visually-hidden-reset() {
+    &:extend(.abs-visually-hidden-reset all);
+}
+
+//  Clearfixes
+.abs-clearfix {
+    .clearfix();
+}
+
+//  Clearer - clearing container using only :after element
+.abs-clearer {
+    .clearer();
+}
+
+.extend__clearer() {
+    &:extend(.abs-clearer all);
+}
+
+//  Reset list styles
+.abs-list-reset-styles {
+    .list-reset-styles();
+}
+
+.extend__list-reset-styles() {
+    &:extend(.abs-list-reset-styles all);
+}
