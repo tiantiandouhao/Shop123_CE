@@ -1,0 +1,81 @@
+﻿Cancel,取消
+Action,操作
+failed,失败
+successful,成功
+Delete,删除
+Name,姓名
+Type,类型
+System,系统
+We can't save the Cron expression.,我们不能保存计划任务表达式.
+Database,数据库
+Time,时间
+System Backup,系统备份
+Database and Media Backup,数据库与媒体备份
+Database Backup,数据库备份
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","存档可以在Windows系统上压缩<a href=""1"">2</a>"
+Backups,备份
+Tools,工具
+Backup,备份
+You need more permissions to activate maintenance mode right now.,你需要更多的权限来激活维护模式。
+"To continue with the backup, you need to either deselect ' '""Put store on the maintenance mode"" or update your permissions.",继续备份,您要么取消选择“店维维修模式”，要么更新您的权限
+Something went wrong putting your store into maintenance mode.,把你的店进入维护模式时出了一些错
+You need more free space to create a backup.,你需要更多的自由空间来创建备份。
+You need more permissions to create a backup.,你需要更多的权限来创建备份
+Something went wrong creating the backup.,创建备份时出错
+Please correct the password.,请更正密码
+"To continue with the rollback, you need to either deselect ' '""Put store on the maintenance mode"" or update your permissions.",要继续回滚，您要么取消选择“店维维修模式”，要么更新您的权限
+The backup file was not found.,未找到备份文件。
+We couldn't connect to the FTP.,我们无法连接到FTP。
+Failed to validate FTP,验证 FTP 失败
+Not enough permissions to perform rollback.,没有足够的权限来执行回滚。
+Failed to rollback,回滚失败
+We couldn't delete one or more backups.,我们不能删除一个或多个备份。
+The selected backup(s) has been deleted.,所选备份已删除。
+Database and Media,数据库和媒体
+System (excluding Media),系统（不包括媒体）
+The system backup has been created.,系统备份已创建。
+The system backup (excluding media) has been created.,已创建系统备份（不包括媒体）。
+The database and media backup has been created.,数据库与媒体备份已创建。
+The database backup has been created.,数据库备份已创建。
+Please correct the order of creation for a new backup.,请更正新备份的创建程序
+The backup file does not exist.,备份文件不存在
+The backup file path was not specified.,未指定备份文件路径。
+"The backup file ""%1"" does not exist.",备份文件 ""%1"" 不存在
+"Sorry, but we cannot read from or write to backup file ""%1"".",对不起，但我们不能读取或写入备份文件%1
+The backup file handler was unspecified.,未指定备份文件处理程序
+"Something went wrong writing to the backup file ""%1"".",写入备份文件""%1""时出错
+Warning,警告
+"Any data created since the backup was made will be lost including admin users, customers and orders.",创建备份的任何数据都会丢失，包括管理员用户、客户和订单。
+Are you sure you want to proceed?,你确定要继续吗？
+OK,OK
+It will take time to create a backup.,需要时间创建备份
+Please wait until the action ends.,请等到操作结束。
+Are you sure you want to continue?,您确定要继续？
+Backup options,备份选项
+Please specify backup creation option.,请指定备份创建选项。
+Backup Name,备份名称
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.",请仅使用字母（a-z 或 A-Z），数字（0-9）或空格 在这个领域。
+Please put your store into maintenance mode during backup.,请将您的商店在备份过程中保存为维护模式
+Exclude media folder from backup,从备份中排除媒体文件夹
+Please enter a password.,请输入密码
+Please enter the password to confirm rollback.,请输入密码以确认回滚。
+This action cannot be undone.,该动作不能撤消。
+User Password,用户密码
+Please put your store into maintenance mode during rollback processing.,在回滚处理时， 请将您的店铺设置为维护模式
+Use FTP Connection,使用FTP凭据
+FTP credentials,FTP凭据
+FTP Host,主机名
+FTP Login,登录
+FTP Password,密码
+Magento root directory,Magento根目录
+Create Backup,创建备份
+Download,下载
+Start Time,开始时间
+Frequency,平率
+Scheduled Backup Settings,计划备份设置
+Enable Scheduled Backup,启用计划备份
+Backup Type,备份类型
+Maintenance Mode,维护模式
+Are you sure you want to delete the selected backup(s)?,你是否确定要删除所选备份？
+Size(bytes),大小（字节）
+Rollback,回滚

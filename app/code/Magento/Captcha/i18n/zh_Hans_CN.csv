@@ -1,0 +1,27 @@
+﻿Always,总是
+After number of attempts to login,登录失败的次数
+Incorrect CAPTCHA,验证码有误
+Incorrect CAPTCHA.,验证码有误。
+Please enter the letters from the image:,请输入图像中的字母:
+Reload captcha,刷新验证码
+<strong>Attention</strong>: Captcha is case sensitive.,<strong>注意</strong>：验证码为区分大小写。
+Please type the letters below,请输入下列字母
+CAPTCHA,验证码
+Enable CAPTCHA in Admin,在管理界面启用安全码
+Font,字体
+Forms,表单
+Displaying Mode,显示模式
+Number of Unsuccessful Attempts to Login,试登录失败的次数
+"If 0 is specified, CAPTCHA on the Login form will be always available.",如果指定了0，在登录表单中的验证码将始终可用
+CAPTCHA Timeout (minutes),验证码超时（分钟）
+Number of Symbols,符号数
+Please specify 8 symbols at the most. Range allowed (e.g. 3-5),请指定最多8个符号. 允许的范围 (例如 3-5)
+Symbols Used in CAPTCHA,证码中使用的符号
+"
+                        Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
+                    ","
+                        请使用字母(a-z or A-Z)或数字(0-9). 空格或其他字符是不允许的.<br />客户会减少类似字符(例如。 ""i""，""l""，""1"")的正确识别机会。
+                    "
+Case Sensitive,分大小写
+Enable CAPTCHA on Frontend,前端启用验证码
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",如果选择“创建用户” 和“忘记密码”形式的验证码将永远被启用

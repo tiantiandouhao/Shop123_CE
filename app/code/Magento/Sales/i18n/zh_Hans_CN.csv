@@ -1,0 +1,697 @@
+﻿Remove,删除
+Close,关闭
+Cancel,取消
+Back,返回
+Add Products,添加产品
+Update Items and Qty's,更新项目与数量
+Product,产品
+Price,价格
+Quantity,数量
+Products,产品
+ID,ID
+SKU,SKU
+Apply,应用
+Configure,配置
+Shopping Cart,购物车
+Quote item id is not received.,未收到报价项编号。
+Quote item is not loaded.,报价项未被加载。
+No,否
+Apply Coupon Code,应用优惠券
+Remove Coupon Code,删除优惠券
+Qty,数量
+Row Subtotal,行小计
+Action,操作
+No ordered items,无订单项
+Total %1 product(s),总计 %1 产品
+Subtotal:,小计：
+Excl. Tax,不含税
+Total,总数
+Incl. Tax,含税
+Total incl. tax,税费总额
+Move to Wishlist,移动到收藏夹
+Edit,编辑
+Item,商品
+Add to Cart,添加到购物车
+Sku,Sku
+Order saving error: %1,保存订单错误: %1
+You created the order.,您已创建订单。
+Orders,订单
+Customer,客户
+Guest,访客
+Account Information,帐户信息
+First Name,顾客姓名
+Last Name,客户姓氏
+Email,客户邮件
+Refresh,刷新
+Enable,启用
+General,基本
+Yes,是
+Name,姓名
+Status,状态
+Enabled,激活
+Title,标题
+Home,首页
+Any,任何
+From,来自
+To,发送至
+ [deleted], [删除]
+Dashboard,控制面板
+title,标题
+Specified,指定
+Order,订单
+Order #%1,Order #%1
+Shipping Amount,运送量
+Tax Amount,税额
+View,查看
+We cannot add this item to your shopping cart.,我们无法将此项目添加到您的购物车。
+N/A,N/A
+Ordered,已下单
+Invoiced,已出发票
+Shipped,已发货
+Refunded,已存储
+Canceled,已取消
+From:,来自：
+To:,至：
+Gift Message,礼品消息
+Message:,信息：
+Tier Pricing,层级价格
+Go to Home Page,回到主页
+Customer Group,客户组
+Closed,已关闭
+Product Name,产品名
+Discount Amount,折扣帐户
+Country,国家
+State/Province,州/省
+Payment Information,配置文件信息
+Shipping Information,运送信息
+Shipping Method,运送方式
+Clear Shopping Cart,清空购物车
+City,城市
+Zip/Postal Code,邮政编码
+Email Address,编辑电子邮件地址
+Company,公司
+Address,Address
+Street Address,街道地址
+Telephone,电话
+Save in address book,保存到地址簿
+Continue,继续
+Order #,Order #
+No Payment Methods,无支付方法
+Billing Address,账单地址
+Shipping Address,送货地址
+Payment Method,支付方法的名称
+Sales,销售
+Created,创建于
+Select,选择
+Comment,评论
+1%,1%
+Date,日期
+Add New Address,添加新地址
+Purchase Date,购买日期
+Bill-to Name,记账姓名
+Ship-to Name,收货人
+Order Total,订单总数
+Purchase Point,购买自（店铺）
+Recent Orders,近期订单
+Notified,已通知。
+Notify Customer by Email,通过电子邮件通知客户
+Billing,账单
+Newsletter Subscription,新闻邮件订阅
+Order Status,订单状态
+Wish List,收藏夹
+Pending,挂起
+View Order,查看订单
+Amount,数量
+Message,信息
+Information,信息
+Gift Options,礼品选项
+"If you don't want to leave a gift message for the entire order, leave this box blank.",如果你不想为整个订单留，礼品信息，请将此框留空。
+New,新建
+Custom Price,自定义价格
+Processing,正在处理
+Add To Order,添加到订单
+Configure and Add to Order,配置并添加到订单
+No items,无项目
+Authorization,授权
+Ordered amount of %1,Ordered amount of %1
+Payment transactions disallow storing objects.,支付交易不允许的店铺对象。
+Transaction ID,交易ID
+Order ID,订单 ID
+Void,无效
+Created At,创建于
+Payment Method:,支付方法：
+Ship To,送货至
+Invalid parent block for this block,此块的父级块错误
+Grand Total (Base),G.T.（基本）
+Grand Total (Purchased),G.T.（已购买）
+Customer Name,客户名字
+We couldn't update the payment.,我们无法更新付款
+Shopping Cart Price Rule,购物车价格规则
+CSV,CSV
+Excel XML,Excel XML
+Total Refunded,退款总量
+Paid,已付费
+Coupons,优惠券
+Recently Viewed,最近查看过的
+Recently Compared Products,最近比较过的产品
+Recently Viewed Products,最近查看过的产品
+Print,打印
+Submit Comment,提交评论
+Returned,已退款
+Order Date,订单日期
+Order # ,Order # 
+Order Date: ,订单日期：
+Comment Text,评论文字
+Visible on Frontend,前端可见
+Not Notified,未通知
+Please select products.,请选择产品
+Number,数字
+Order Date: %1,Order Date: %1
+Shipping &amp; Handling,运送与手续费
+Credit Memos,退款记录
+Invoices,发票
+We cannot get the order instance.,我们无法获取订单实例
+Create New Order,创建新订单
+Save Order Address,保存订单地址
+Edit Order %1 %2 Address,"编辑订单 %1 %2 地址"""
+Order Address Information,订单地址信息
+Please correct the parent block for this block.,请为此块更正其父块
+Submit Order,提交订单
+Are you sure you want to cancel this order?,您确认要取消该订单吗？
+Order Comment,订单评论
+Please select a customer.,请选择用户
+Create New Customer,创建新客户
+Edit Order #%1,Edit Order #%1
+Create New Order for %1 in %2,为 %1在 %2创建新订单
+Create New Order for New Customer in %1,在 %1上为新用户创建新订单
+Create New Order for %1,为 %1创建新订单
+Create New Order for New Customer,为新客户创建新订单
+Items Ordered,商品已下单
+This product is disabled.,这个产品已禁用
+Buy %1 for price %2,Buy %1 for price %2
+Item ordered qty,下单商品的数量
+%1 with %2 discount each,%1 with %2 discount each
+%1 for %2,%1 for %2
+* - Enter custom price including tax,* - 输入含税的自定义价格
+* - Enter custom price excluding tax,* - 输入不含税的自定义价格
+This product does not have any configurable options,该产品不包含任何可配置选项
+Add Selected Product(s) to Order,添加所选产品到订单
+Update Changes,更新更改
+Are you sure you want to delete all items from shopping cart?,你是否确定要删除购物车中的所有内容？
+Products in Comparison List,比较列表中的产品
+Last Ordered Items,上次订购的商品
+Please select a store.,请选择店铺.
+Order Totals,订单总数
+Shipping Incl. Tax (%1),含税运费 (%1)
+Shipping Excl. Tax (%1),不含税运费 (%1)
+New Credit Memo for Invoice #%1,为发票 #%1添加新的备注
+New Credit Memo for Order #%1,为订单 #%1添加新的备注
+Refund Shipping (Incl. Tax),发货退款（含税）
+Refund Shipping (Excl. Tax),发货退款（不含税）
+Refund Shipping,发货退款
+Update Qty's,更新数量
+Refund,退款
+Refund Offline,离线退款
+Paid Amount,付费金额
+Refund Amount,退款额度
+Shipping Refund,运单退款
+Order Grand Total,订单总数
+Adjustment Refund,调整退款
+Adjustment Fee,调整费
+Send Email,发送邮件
+Are you sure you want to send a Credit memo email to customer?,您确定要发信用备忘邮件给客户吗?
+The credit memo email was sent,信用备忘邮件已发送
+the credit memo email is not sent,信用备忘录邮件未发送
+Credit Memo #%1 | %3 | %2 (%4),Credit Memo #%1 | %3 | %2 (%4)
+Total Refund,总退款额
+New Invoice and Shipment for Order #%1,订单 #%1的新发票和运费
+New Invoice for Order #%1,订单#%1的新发票
+Submit Invoice and Shipment,提交发票与运单
+Submit Invoice,提交发票
+Are you sure you want to send an Invoice email to customer?,您确定要给客户发送发票邮件吗？
+Credit Memo,信用记录
+Capture,获取
+the invoice email was sent,发票电子邮件已发送
+the invoice email is not sent,发票电子邮件未发送
+Invoice #%1 | %2 | %4 (%3),发票 #%1 | %2 | %4 (%3)
+Order Statuses,订单状态
+Create New Status,创建新状态
+Assign Status to State,按国家分配状态
+Save Status Assignment,保存状态协议
+Assign Order Status to State,按国家分配订单状态
+Assignment Information,分配信息
+Order State,订单状态
+Use Order Status As Default,默认使用订单状态
+Visible On Frontend,前端可见
+Edit Order Status,编辑订单状态
+Save Status,销售状态
+New Order Status,新订单状态
+Order Status Information,订单状态信息
+Status Code,状态代码
+Status Label,状态标签
+Store View Specific Labels,店铺视图指定的标签
+Total Paid,同付款额
+Total Due,总额
+Are you sure you want to send an order email to customer?,您确定要发送订单邮件给客户吗？
+"This will create an offline refund. ' 'To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",这将创建离线退款。要创建在线退款，打开发票并创建信用备忘录。你要继续吗？
+Are you sure you want to void the payment?,您确认要使支付无效吗？
+Hold,暂停
+hold,暂停
+Unhold, 释放
+unhold,释放
+Are you sure you want to accept this payment?,您确认要接受该支付吗？
+Accept Payment,接受付款
+Are you sure you want to deny this payment?,您确认要拒绝该支付吗？
+Deny Payment,拒绝支付
+Get Payment Update,获得支付更新
+Invoice and Ship,发票与发货
+Invoice,发票
+Ship,送货
+Reorder,记录
+Order # %1 %2 | %3,订单 # %1 %2 | %3
+"This order contains (%1) items and therefore cannot be edited through the admin interface. ' 'If you wish to continue editing, the (%2) items will be removed, ' ' the order will be canceled and a new order will be placed.",此订单包含（% 1）项目，因此不能通过管理内部界面进行编辑。如果您想继续编辑，（% 2）项目将被删除，“订单将被取消，新的订单生成。
+Are you sure? This order will be canceled and a new one will be created instead.,你肯定吗？这个订单将被取消，新的订单将生成。
+Save Gift Message,保存礼品信息
+Order Credit Memos,订单信用记录
+Credit memo #%1 created,信用记录 #%1 已创建
+Credit memo #%1 comment added,信用记录 #%1 评论已添加
+Shipment #%1 created,已创建货运#%1
+Shipment #%1 comment added,"货运 #%1 评论已添加
+Invoice #%1 created""",已创建发票 #%1
+Invoice #%1 comment added, 已添加发票 #%1评论
+Tracking number %1 for %2 assigned,为%2分配跟踪单号%1
+Comments History,评论历史
+Order History,订单历史
+Order Information,订单信息
+Order Invoices,订单发票
+Shipments,发货
+Order Shipments,订单发货
+Transactions,交易
+Order View,订单查看
+Applies to Any of the Specified Order Statuses,适用于任何指定的订单状态
+Show Actual Values,显示实际值
+Fetch,获取
+Transaction # %1 | %2,交易 # %1 | %2
+Key,密钥
+Value,值
+We found an invalid entity model.,我们发现了一个无效的实体模型
+Order # %1,订单 # %1
+Back to My Orders,返回我的订单
+View Another Order,查看另一订单
+About Your Refund,关于您的退款
+My Orders,我的订单
+About Your Invoice,关于您的发票
+Print Order # %1,Print Order # %1
+Grand Total to be Charged,需要收取的总费用
+Unassign,撤销分配
+We sent the message.,我们发送了该信息
+This order no longer exists.,该订单已不存在。
+Exception occurred during order load,订单加载时发生异常
+You sent the order email.,您已发送订单邮件
+We couldn't send the email order.,我们不能发送订单邮件
+You canceled the order.,您已取消订单
+You have not canceled the item.,您未取消该项目
+You put the order on hold.,您已暂停订单。
+You have not put the order on hold.,您已取消订单暂停
+You released the order from holding status.,您已取消订单暂停状态
+The order was not on hold.,订单已继续
+The payment has been accepted.,支付已被接受。
+The payment has been denied.,支付已被拒绝。
+The payment update has been made.,支付已更新
+Comment text cannot be empty.,注释文本不能为空。
+We cannot add order history.,我们不能添加订单历史
+%1 order(s) cannot be canceled.,订单%1无法取消
+You cannot cancel the order(s).,您不能取消订单
+We canceled %1 order(s).,我们取消了订单 %1.
+%1 order(s) were not put on hold.,订单%1 未暂停
+No order(s) were put on hold.,没有被暂停的订单。
+You have put %1 order(s) on hold.,您已暂停订单 %1
+%1 order(s) were not released from on hold status.,订单%1 状态未从暂停状态中释放
+No order(s) were released from on hold status.,没有订单从暂停状态中释放
+%1 order(s) have been released from on hold status.,订单%1 从暂停状态中释放
+There are no printable documents related to selected orders.,没有与所选订单有关的可打印文档。
+The payment has been voided.,支付已被撤销。
+We couldn't void the payment.,我们不能取消支付。
+You updated the order address.,您已更新订单地址
+Something went wrong updating the order address.,更新订单地址时出错
+"""%1"" coupon code is not valid.",优惠劵%1无效
+The coupon code has been accepted.,该代金券代码已被使用。
+New Order,新订单
+The order no longer exists.,订单不存在
+Cannot create credit memo for the order.,不能为订单创建信用备忘
+View Memo for #%1,查看 #%1的备忘录
+View Memo,查看备忘录
+New Memo for #%1, #%1的新备忘录
+New Memo,新备忘录
+Cannot update the item's quantity.,无法更新该项目的数量
+Credit memo's total must be positive.,信用备忘录的总数必须是整数
+Cannot create online refund for Refund to Store Credit.,无法创建商店积分退款的在线退款
+You created the credit memo.,您已创建信用备忘
+Cannot save the credit memo.,无法保存信用备忘
+The credit memo has been canceled.,信用备忘录已取消
+You canceled the credit memo.,您已取消信用备忘录
+You voided the credit memo.,您已作废信用备忘
+We can't void the credit memo.,我们不能作信用备忘
+The Comment Text field cannot be empty.,注释文本字段不能为空
+Cannot add new comment.,不能添加新备注
+Edit Order,编辑订单
+The invoice no longer exists.,发票不存在
+The order does not allow an invoice to be created.,订单不允许创建发票
+Cannot create an invoice without products.,没有产品就不能创建发票。
+New Invoice,新发票
+Cannot update item quantity.,不能更新产品数量。
+The invoice and the shipment  have been created. ' 'The shipping label cannot be created now.,已经创建发票和发货， 当前无法创建的装运标签。
+You created the invoice and shipment.,您已创建发票和发货。
+The invoice has been created.,已创建发票
+We can't send the invoice email.,我们不能发送发票邮件
+We can't send the shipment.,我们不能发送发货
+We can't save the invoice.,我们不能保存发票
+The invoice has been captured.,发票被捕获
+Invoice capturing error,捕获发票错误
+You canceled the invoice.,您已取消发票
+Invoice canceling error,取消发票错误
+The invoice has been voided., 发票已作废 
+Invoice voiding error,作废发票错误
+Create New Order Status,创建新订单状态
+We can't find this order status.,我们找不到该订单状态
+We found another order status with the same order status code.,我们再另外一个订单状态中找到相同非订单状态码。
+You have saved the order status.,您已保存订单状态
+We couldn't add your order status because something went wrong saving.,我们无法添加您的订单状态因为保存时除了一些错。
+You have assigned the order status.,You have assigned the order status.
+An error occurred while assigning order status. Status has not been assigned.,分配订单状态时发生错误。状态未被分配。
+You have unassigned the order status.,你有未分配的订单状态。
+Something went wrong while we were unassigning the order.,解除指定订单时出错。
+Something went wrong while saving the gift message.,保存礼品信息时出错。
+The gift message has been saved.,礼品信息已保存。
+Please correct the transaction ID and try again.,请更正您的交易ID并重试。
+The transaction details have been updated.,交易细节已更新。
+We can't update the transaction details.,我们无法更新交易细节。
+Orders and Returns,订单与退货
+This item price or quantity is not valid for checkout.,此产品的价格或数量不适用于结帐。
+You entered incorrect data. Please try again.,您输入了错误的数据，请重试。
+We couldn't find this wish list.,我们找不到该收藏夹
+"We could not add a product to cart by the ID ""%1"".",我们不能通过ID %1 将产品添加到购物车。
+There is an error in one of the option rows.,选择行中有一个错误。
+Shipping Address: ,发货地址: 
+Billing Address: ,账单地址:
+You need to specify order items.,您需要指定订单项目。
+You need to specify a shipping method.,您需要指定一个发货方式。
+A payment method must be specified.,付款方式需指定。
+This payment method instance is not available.,该付款方式实例不可用。
+This payment method is not available.,这种付款方式不可用。
+VAT Request Identifier,增值税要求标识符
+VAT Request Date,增值税要求日期。
+"The Order State ""%1"" must not be set manually.",订单状态 %1 不能手动设置。
+A hold action is not available.,hold操作不可用。
+You cannot remove the hold.,您不能删除“hold”操作
+We cannot cancel this order.,我们不能取消该订单。
+The most money available to refund is %1.,可退还的最多的钱是 %1
+We cannot register an existing credit memo.,我们不能注册一个现有的信用备忘录。
+Unknown State,未知州
+"We found an invalid quantity to refund item ""%1"".","We found an invalid quantity to refund item ""%1""."
+Maximum shipping amount allowed to refund is: %1,允许退款的最大运费金额是： %1
+We cannot register an existing invoice,我们不能注册一个现有的发票
+"We found an invalid quantity to invoice item ""%1"".","We found an invalid quantity to invoice item """"%1""""."""
+Unknown Status,位置状态
+Backordered,延期
+Partial,部分
+Mixed,混合
+An amount of %1 will be captured after being approved at the payment gateway.,在支付网关获得批准后，将总量%1将被捕获
+Captured amount of %1 online,捕获总量%1在线
+An order with subscription items was registered.,有订阅项目的订单已注册
+"The transaction ""%1"" cannot be captured yet.",交易 %1 尚未捕获
+Order is suspended as its capture amount %1 is suspected to be fraudulent.,订单暂停由于捕获量 %1被怀疑是欺诈
+Registered notification about captured amount of %1.,关于捕获%1总量的注册通知
+Registered a Void notification.,注册的撤销通知。
+"If the invoice was created offline, try creating an offline credit memo.",如果该发票是离线创建的，请尝试创建一个脱机信用备忘录。
+We refunded %1 online.,我们已在线退款 %1
+We refunded %1 offline.,我们已离线退款 %1
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2""","IPN ""Refunded"". 买家发起退款. Registered notification about refunded amount of %1. 交易 ID: ""%2"""
+The credit memo has been created automatically., 信用备忘录已自动创建。
+Registered notification about refunded amount of %1.,注册通知退款金额 %1
+Canceled order online,取消在线订单
+Canceled order offline,取消离线订单
+Approved the payment online.,已在线审核支付。
+There is no need to approve this payment.,无需审核该支付。
+Registered notification about approved payment.,注册的有关已审批支付的通知。
+Denied the payment online,Denied the payment online
+There is no need to deny this payment.,无需拒绝该支付。
+Registered notification about denied payment.,注册的有关拒绝支付的通知。
+Registered update about approved payment.,注册的有关已审批支付的更新。
+Registered update about denied payment.,注册的有关拒绝支付的更新。
+There is no update for the payment.,该支付无更新。
+The order amount of %1 is pending approval on the payment gateway.,订单总量 %1 在支付网站等待批准。
+We will authorize %1 after the payment is approved at the payment gateway.,在支付网关批准付款后，我们将授权 %1
+Authorized amount of %1,"授权量 %1
+Voided authorization.""",无效的认证。
+Amount: %1.,Amount: %1.
+"Transaction ID: ""%1""",交易ID: %1
+The parent transaction ID must have a transaction ID.,上级（父）交易ID必须有一个交易ID。
+"The transaction ""%1"" (%2) is already closed.","交易 """"%1"""" (%2) 已关闭"
+Set order for existing transactions not allowed,不允许对已存在的交易设置订单
+"At minimum, you need to set a payment ID.", 至少，你需要设置一个付款ID
+"We found an unsupported transaction type ""%1"".",我们发现不支持的交易类型 %1。
+Please set a proper payment object.,请设置适当的付款对象
+The Transaction ID field cannot be empty.,交易 ID 字段不能为空。
+You can't do this without a transaction object.,没有交易对象，您不能操作。
+Sold to:,Sold to:
+Ship to:,Ship to:
+Shipping Method:,送货方法：
+Total Shipping Charges,总运费
+We found an invalid renderer model.,我们发现一个无效的渲染模型。
+Please define the PDF object before using.,使用前请确定PDF对象。
+"We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array."
+Total (ex), 总计 (ex)
+Total (inc),总数（含）
+Credit Memo # ,信用备忘录 # 
+Invoice # ,发票 # 
+The order object is not specified.,未指定订单对象。
+The source object is not specified.,未指定源对象。
+An item object is not specified.,未指定项目对象
+A PDF object is not specified.,未指定PDF对象
+A PDF page object is not specified.,未指定PDF页面对象
+Packing Slip # ,包裹清单 #
+We cannot register an existing shipment,我们不能注册现有的发货
+We cannot create an empty shipment.,"我们不能创建空发货
+We found an invalid qty to ship for item """"%1"""".""","We found an invalid qty to ship for item ""%1""."
+The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.,"总模本从 \Magento\Sales\Model\Order\Total\AbstractTotal扩展
+We cannot determine the field name.""",我们不能确定该字段名称
+Please specify a valid grid column alias name that exists in the grid table.,请在网格表中指定一个有效的网格列别名名称。
+We don't have enough information to save the parent transaction ID.,我们没有充足的信息保存父交易ID
+The last status can't be unassigned from its current state.,从其当前状态中不能取消指定最终状态。
+Pending Payment,待支付
+On Hold,暂停
+Complete,完成
+Suspected Fraud,欺诈嫌疑
+Payment Review,支付预览
+"Changing address information will not recalculate shipping, tax or other order amount.",更改地址信息不会导致重新计算发货、税金，或其他金额。
+Order Comments,订单评论
+Order Currency:,订单币种：
+Select from existing customer addresses:,从现有客户地址选择：
+Same As Billing Address,与账单地址相同
+You don't need to select a shipping address.,您不需要选择发货地址。
+Gift Message for the Entire Order,整个订单的礼品信息
+Move to Shopping Cart,移动到购物车
+Subscribe to Newsletter,订阅到新闻通讯
+Click to change shipping method,点击更改送货方法
+"Sorry, no quotes are available for this order.",对不起，没有针对这个订单的报价
+Get shipping methods and rates,获得发货方法和费率
+You don't need to select a shipping method.,您不需要选择发货方式。
+Customer's Activities,客户活动
+Append Comments,附加评论
+Email Order Confirmation,订单确认用邮件发送
+Grand Total Excl. Tax,不含税总计
+Grand Total Incl. Tax,含税总计
+Subtotal (Excl. Tax),小计 (不含税)
+Subtotal (Incl. Tax),小计 (含税)
+The order was placed using %1.,使用 %1下单
+Items to Refund,要退货的商品
+Return to Stock,返回库存
+Qty to Refund,要退款的数量
+Row Total,总行数
+No Items To Refund,无可退款项目
+Credit Memo Comments,信用记录评论
+Refund Totals,退款总数
+Email Copy of Credit Memo,信用记录副本用邮件发送
+Please enter a positive number in this field.,请在该字段中输入一个正整数
+Items Refunded,商品已退款
+No Items,无项目
+Credit Memo History,信用备忘记录
+Credit Memo Totals,信用备忘录汇总
+Create Shipment,创建运单
+Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.,发票和发货类型与此订单上的一些项目不匹配。您可以在创建发票之后创建发货。
+Qty to Invoice,发票数量
+Invoice History,发票历史
+Invoice Comments,发票评论
+Invoice Totals,发票汇总
+Capture Amount,获取额度
+Capture Online,在线获取
+Capture Offline,离线获取
+Not Capture,无获取
+The invoice will be created offline without the payment gateway.,发票将在没有支付网关请款下离线创建。
+Email Copy of Invoice,发票副本用邮件发送
+Items Invoiced,商品移开发票
+Total Tax,总税款
+From Name,通过名称
+To Name,到名称
+Add Order Comments,添加订单评论
+Notification Not Applicable,通知不可用
+the order confirmation email was sent,订单确认电子邮件已发送
+the order confirmation email is not sent,订单确认电子邮件未发送
+Order Date (%1),Order Date (%1)
+Purchased From,购买自
+Link to the New Order,链接到新订单
+Link to the Previous Order,连接到前一订单
+Placed from IP,下单用的IP
+%1 / %2 rate:,%1 / %2 比率:
+Item Status,商品状态
+Original Price,原始价格
+Tax Percent,税率
+Transaction Data,交易数据
+Parent Transaction ID,父交易ID
+Transaction Type,交易类型
+Is Closed,Is Closed
+Child Transactions,子交易
+Transaction Details,交易细节
+Gift Message for this Order,该订单的礼品信息
+Shipped By,送货方
+Tracking Number,追踪编号
+Billing Last Name,按姓氏记账
+Find Order By:,订单查找条件：
+ZIP Code,ZIP Code
+Billing ZIP Code,按邮编记账
+Print All Refunds,打印所有退款
+Refund #,退款 #
+Print Refund,打印退款
+You have placed no orders.,您没有下订单。
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Order Date:</span> %1"
+No shipping information available,无可用发货信息
+Print Order,打印订单
+Subscribe to Order Status,订阅订单状态
+Print All Invoices,打印所有发票
+Invoice #,发票 #
+Print Invoice,打印发票
+Qty Invoiced,已开发票数量
+Refund #%1,Refund #%1
+Invoice #%1,Invoice #%1
+Shipment #%1,Shipment #%1
+Items Shipped,商品已发货
+Qty Shipped,已发货数量
+View All,查看全部
+Gift Message for This Order,该订单的礼品信息
+About Your Order,关于您的订单
+Shipment Comments,发货备注
+Gift Options for ,Gift Options for 
+Ok,Ok
+Anchor Custom Title,自定义标题锚点
+Phone,Phone
+Default Template,默认模板
+Minimum Order Amount,最小订货量
+Comma-separated,分离段
+Hide Customer IP,隐藏 客户IP
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",选择客户IP是否显示在订单，发票，发货，和信用记录。
+Checkout Totals Sort Order,结帐总额排序
+Allow Reorder,允许重复订单
+Invoice and Packing Slip Design,发票和装箱单的设计
+Logo for PDF Print-outs (200x50),PDF打印logo (200x50)
+"
+                        Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
+                    ","
+                        您的默认logo 将用于PDF和HTML文件。<br />(jpeg, tiff, png) 如果你的PDF图像扭曲，尝试使用文件大小较大的图像。
+                    "
+Logo for HTML Print View,HTML 打印视图logo
+"
+                        Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
+                    ","
+                        只为HTML文件Logo。如果是空的，将使用默认的.<br />(jpeg, gif, png)
+                    "
+Minimum Amount,最小量
+Subtotal after discount,折后小计
+Description Message,描述信息
+This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.,此邮件将显示在购物车，当小计（折扣）低于最低允许金额。
+Error to Show in Shopping Cart,购物车显示错误
+Validate Each Address Separately in Multi-address Checkout,在多地址结账中分别验证每个地址。
+Multi-address Description Message,多地址描述信息
+We'll use the default description above if you leave this empty.,如果您此处留白， 我们将用默认的描述。
+Multi-address Error to Show in Shopping Cart,在购物车内显示多地址错误
+We'll use the default error above if you leave this empty.,如果您此处留白， 我们将用默认的错误
+Use Aggregated Data (beta),使用汇总数据（测试版）
+Sales Emails,销售邮件
+New Order Confirmation Email Sender,新订单确认邮件的发件人
+New Order Confirmation Template,新订单确认邮件的模板
+New Order Confirmation Template for Guest,发送给以访客形式下单的客户的新订单确认邮件的模板
+Send Order Email Copy To,发送订单邮件的复件到
+Send Order Email Copy Method,发送订单邮件附件方式
+Order Comment Email Sender,订单备注邮件的发件人
+Order Comment Email Template,订单备注邮件模板
+Order Comment Email Template for Guest,发送给以访客形式下单的客户的订单备注邮件模板
+Send Order Comment Email Copy To,发送订单备注邮件的复件到
+Send Order Comments Email Copy Method,发送订单备注邮件的复件方式
+Invoice Email Sender,发票邮件的发件人
+Invoice Email Template,发票邮件的模板
+Invoice Email Template for Guest,发送给以访客形式下单的客户的发票邮件的模板
+Send Invoice Email Copy To,发送发票邮件的复件到
+Send Invoice Email Copy Method,发送发票邮件的复件方式
+Invoice Comment Email Sender,发票备注邮件的发件人
+Invoice Comment Email Template,发票备注邮件模板
+Invoice Comment Email Template for Guest,发送给以访客形式下单的客户的发票备注邮件模板
+Send Invoice Comment Email Copy To,发送发票备注邮件的复件到
+Send Invoice Comments Email Copy Method,发送发票备注邮件的复件方式
+Shipment,发货
+Shipment Email Sender,配送邮件发件人
+Shipment Email Template,配送邮件模板
+Shipment Email Template for Guest,发送给以访客形式下单的客户的配送邮件模板
+Send Shipment Email Copy To,发送配送邮件的复件到
+Send Shipment Email Copy Method,发送配送邮件的复件方式
+Shipment Comment Email Sender,配送备注邮件发件人
+Shipment Comment Email Template,配送备注邮件模板
+Shipment Comment Email Template for Guest,发送给以访客形式下单的客户配送备注邮件模板
+Send Shipment Comment Email Copy To,发送配送备注邮件的复件到
+Send Shipment Comments Email Copy Method,发送配送备注邮件的复件方法
+Credit Memo Email Sender,付款邮件的发件人
+Credit Memo Email Template,付款邮件的模板
+Credit Memo Email Template for Guest,发送给以访客形式下单的客户的付款邮件的模板
+Send Credit Memo Email Copy To,发送付款邮件的复件到
+Send Credit Memo Email Copy Method,发送付款邮件的复件方法
+Credit Memo Comment Email Sender,付款备注邮件的发件人
+Credit Memo Comment Email Template,付款备注邮件的模板
+Credit Memo Comment Email Template for Guest,发送给以访客形式下单的客户的付款备注邮件的模板
+Send Credit Memo Comment Email Copy To,发送付款备注邮件的复件到
+Send Credit Memo Comments Email Copy Method,发送付款备注邮件的复件方式
+PDF Print-outs,PDF 打印
+Display Order ID in Header,在页眉中显示订单ID
+Orders and Returns Search Form,订单与退货搜索表单
+PDF Credit Memos,PDF版信用记录
+PDF Invoices,PDF版发票
+Invoice Date,发票日期
+ZIP/Post Code,邮政编码
+Signed-up Point,Signed-up Point
+order-header,订单表头
+New Order RSS,新订单RSS
+Print Invoices,打印发票
+Print Packing Slips,打印包裹清单
+Print Credit Memos,打印信用记录
+Print All,打印全部
+Print Shipping Labels,打印运单标签
+Ship Date,发货日期
+Total Quantity,总数量
+Default Status,默认状态
+State Code and Title,状态代码和标题
+PDF Packing Slips,PDF版包裹清单
+"Status can't be unassigned, because it is used by existing order(s).",不能取消指定状态,因为该状态已在现有订单中存在。
+Refunds,退款
+We couldn't find any records.,我们找不到任何记录。
+We couldn\'t find any records.,我们找不到任何记录。
+We couldnt find any records.,我们找不到任何记录。
+per page,每页
+Save Current View,保存当前视图
+Customer Email,客户邮箱
+Shipping and Handling,运费与处理费
+Export,导出
+Custom,自定义
+records found,条记录
+Default View,默认视图
+Columns,列
+Filters,过滤器
+Reset,重设
+Order & Account Information,订单及账户信息

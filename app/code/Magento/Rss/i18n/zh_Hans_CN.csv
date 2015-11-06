@@ -1,0 +1,56 @@
+Subtotal,小计
+Discount,折扣
+Grand Total,总计
+Tax,传真
+Catalog,目录
+From:,来自：
+To:,至：
+Gift Message,优惠码
+Message:,信息：
+Click for price,单击获取价格
+New Products,新产品
+Wishlist,收藏夹
+New Products from %1,来自 %1的新产品
+Low Stock Products,产品库存低
+%1 has reached a quantity of %2.,% 1已达到% 2的数量
+Pending product review(s),未决的产品评价
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","产品: <a href=""%1"" target=""_blank"">%2</a> <br/>"
+Summary of review: %1 <br/>,评价内容: %1 <br/>
+Review: %1 <br/>,评价: %1 <br/>
+Store: %1 <br/>,商店: %1 <br/>
+"Click <a href=""%1"">here</a> to view the review.","点击 <a href=""%1""这里</a> 去查看评价."
+"Product: ""%1"" reviewed by: %2","产品: ""%1"" 由%2 点评"
+%1 - Discounts and Coupons,%1 - 折扣和优惠劵
+%1 - Special Products,%1 - 特殊产品
+Special Expires On: %1,特价至: %1
+Price: %1,价格： %1
+Special Price: %1,特价: %1
+Special Products,特殊商品
+Coupons/Discounts,代金券/折扣
+New Orders,新订单
+Order #%1 created at %2,订单 #%1 创建于 %2
+Order # %1 Notification(s),订单 # %1 通知
+Details for %1 #%2, %1 #%2 的细节
+Notified Date: %1<br/>,通知日期: %1<br/>
+Comment: %1<br/>,评论: %1<br/>
+Current Status: %1<br/>,当前状态: %1<br/>
+Total: %1<br/>,Total: %1<br/>
+%1's Wishlist,%1'的收藏夹
+Comment:,评论:
+We cannot retrieve the wish list.,无法获取收藏夹
+There was no RSS feed enabled.,没有激活 RSS feed
+Error in processing xml. %1,处理 xml. %1 时出错
+Subscribe to RSS Feed,订阅 RSS Feed
+Miscellaneous Feeds,杂项源订阅
+Get Feed,获取源
+Category Feeds,分类源
+There are no Rss Feeds.,没有 Rss Feeds.
+Customer Name: %1,客户名字： %1
+Purchased From: %1,采购自: %1
+Discount (%1),折扣(%1)
+Shipping &amp; Handling,运送与手续费
+RSS Feeds,RSS 订阅源
+Rss Config,RSS配置
+Enable RSS,启动 RSS
+Top Level Category,顶级分类
+Customer Order Status Notification,客户订单状态通知

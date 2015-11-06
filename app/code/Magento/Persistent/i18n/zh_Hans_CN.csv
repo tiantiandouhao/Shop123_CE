@@ -1,0 +1,16 @@
+What's this?,这是什么？
+(Not %1?),(非 %1?)
+Your shopping cart has been updated with new prices.,您的购物车已更新，提供了新的价格。
+"Welcome, %1!","欢迎, %1!"
+"To check out, please log in using your email address.",要结算， 请用您的邮箱登陆
+We cannot load the configuration from file %1.,无法从文件%1加载配置
+Remember Me,记住我
+Check &quot;Remember Me&quot; to access your shopping cart on this computer when you are logged out,点击 “记住我”当你注销时还能在这台电脑上访问你的购物车
+General Options,一般选择
+Persistent Shopping Cart,持续购物车
+Enable Persistence,启动持续
+Persistence Lifetime (seconds),持续有效期(秒)
+"Enable ""Remember Me""","启用 ""记住我"""
+"""Remember Me"" Default Value","""记住我"" 默认值"
+Clear Persistence on Log Out,清除日志中的持久性
+Persist Shopping Cart,持续购物车

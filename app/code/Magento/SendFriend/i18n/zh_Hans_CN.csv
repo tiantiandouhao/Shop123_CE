@@ -1,0 +1,37 @@
+Back,返回
+Name,姓名
+Enabled,启用
+* Required Fields,* 必填栏目
+Message:,信息：
+Email to a Friend,给朋友发邮件
+Email Address,邮件地址
+Email Templates,邮件模板
+Name:,姓名：
+Email Address:,邮件地址：
+Sender:,发送人：
+Email:,电子邮件：
+Recipient:,收件人：
+Add Recipient,添加收件人
+Send Email,发送邮件
+You can't send messages more than %1 times an hour.,您不能发信息超过1小时 %1次
+The link to a friend was sent.,链接已发送给朋友。
+We found some problems with the data.,针对这些数据我们发现了一些问题
+Some emails were not sent.,某些邮件未发送
+You've met your limit of %1 sends in an hour.,您已经达到了您的限制1小时发送%1
+The sender name cannot be empty.,发送人姓名不能为空。
+Invalid Sender Email,无效发件人的邮件
+The message cannot be empty.,消息不能为空。
+At least one recipient must be specified.,必须至少指定一个收件人。
+Please enter a correct recipient email address.,请输入正确的收件人邮箱
+No more than %1 emails can be sent at a time.,一次可发送不超过%1的有点
+Please define a correct Cookie instance.,请定义正确的 Cookie 实例。
+Please define a correct Product instance.,请定义正确的产品实例。
+Invalid Sender Information,无效的发送者信息
+Please define the correct Sender information.,请定义正确的发送者信息。
+Remove Email,删除邮件
+Maximum %1 email addresses allowed.,允许最多 %1邮箱地址
+Select Email Template,选择邮件模板
+Allow for Guests,允许访客
+Max Recipients,最多收件人
+Max Products Sent in 1 Hour,一小时内发送最多产品
+Limit Sending By,限制发送

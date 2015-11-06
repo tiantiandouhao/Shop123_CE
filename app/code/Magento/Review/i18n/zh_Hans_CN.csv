@@ -1,0 +1,131 @@
+Are you sure?,您是否确认？
+Cancel,取消
+Back,返回
+Product,产品名
+Price,价格
+Quantity,数量
+ID,ID
+SKU,SKU
+Action,操作
+Edit,编辑
+Customer,客户
+Guest,来宾
+Delete,删除
+Name,姓名
+Status,状态
+Sort Order,排序顺序
+Title,标题
+Are you sure you want to do this?,您是否确认要这样做？
+Type,类型
+Description,描述
+Previous,上一步
+Next,下一步
+Active,激活
+Visibility,可见性
+* Required Fields,* 必填栏目
+Summary,小结
+Default Value,默认值
+Websites,网站
+A total of %1 record(s) have been deleted.,总计 %1 的记录已删除
+A total of %1 record(s) have been updated.,总计 %1 的记录已更新
+Product Name,产品名称
+Inactive,不活动的
+View Details,查看详情
+Created,创建于
+Product Reviews,产品评价
+Pending,等待的
+Review,评价
+Reviews,评价
+Review List,评价列表
+Save Review,保存评价
+Add New Review,添加新评价
+Review Details,评价详情
+Product Rating,产品评价维度
+Visible In,在   可见
+Nickname,昵称
+Summary of Review,评价汇总
+Save and Previous,保存和上一页
+Save and Next,保存和下一页
+Delete Review,删除评价
+Edit Review '%1',编辑评价 '%1'
+New Review,新评价
+"<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
+Administrator,管理员
+Posted By,发布者
+Summary Rating,评价汇总
+Detailed Rating,详细评价
+Pending Reviews RSS,待审评价RSS
+Update Status,更新状态
+Pending Reviews of Customer `%1`,客户 `%1` 的待审评价
+Pending Reviews,待审评价
+All Reviews of Customer `%1`,客户 `%1`的所有评价
+All Reviews of Product `%1`,产品 `%1`的所有评价
+All Reviews,所有评价
+Product Store Name,产品存储名
+Manage Ratings,管理评价维度
+Add New Rating,添加新评价维度
+Save Rating,保存评价维度
+Delete Rating,删除评价维度
+Edit Rating #%1,编辑评价维度 #%1
+New Rating,新评价维度
+Rating Title,评价维度标题
+Rating Visibility,评价维度能见度
+Is Active,激活的
+"Please specify a rating title for a store, or we'll just use the default value.",请问商店指定等级名称， 或者我们使用默认值
+Rating Information,评价维度信息
+Customer Reviews,顾客评价
+Edit Review,编辑评价
+The review was removed by another user or does not exist.,评价已被另一用户删除，或评价不存在。
+You saved the review.,您已保存评价
+Something went wrong while saving this review.,保存评价时出错
+The review has been deleted.,评价已被删除
+Something went wrong  deleting this review.,删除评价时出错
+Please select review(s).,请选择评价
+An error occurred while deleting record(s).,删除记录时出错
+An error occurred while updating the selected review(s).,更新已选记录时出错
+We can't get the product ID.,找不到产品 ID.
+An error occurred while saving review.,保存评价时出错
+You saved the rating.,您已保存评价维度
+You deleted the rating.,您删除了评价维度
+Ratings,评价维度
+My Product Reviews,我的产品评价
+Your review has been accepted for moderation.,您的评价已被管理员批准。
+We cannot post the review.,我们不能发表评价。
+Storage key was not set,未设置存储键
+Approved,已批准
+Not Approved,未批准
+The review summary field can't be empty.,评价小结字段不能为空
+The nickname field can't be empty.,昵称栏不能为空
+The review field can't be empty.,评价栏不能为空
+Rating isn't Available,评价维度不可用
+Assigned Options,分配的选项
+Option Title:,选项标题：
+Rating,评价维度名称
+You have submitted no reviews.,您尚未提交评价。
+My Recent Reviews,我的最近评价
+View All Reviews,查看所有评价
+Average Customer Rating:,客户平均分：
+Your Rating:,您的评价维度：
+Rating:,评价维度：
+Your Review (submitted on %1):,您的评价(提交在 %1):
+Review (submitted on %1):,评价(提交在 %1):
+Back to My Reviews,返回我的评价
+Be the first to review this product,作为评价该产品的第一人
+Write Your Own Review,撰写您自己的评价
+You're reviewing:,您正在评价：
+How do you rate this product?,您如何评价该产品？
+%1 %2,%1 %2
+Summary of Your Review,您的评价汇总
+Submit Review,提交评价
+"Only registered users can write reviews. Please, <a href=""%1"">log in</a> or <a href=""%2"">register</a>","只有注册用户可以写评价。 请 <a href=""%1"">log in</a> or <a href=""%2"">注册</a>"
+Review(s),评价
+Add Your Review,添加您的评价
+%1 Review(s),%1 评价
+Review by,评价来自于
+Posted on,发布于
+Back to Main Product Info,返回产品信息主页
+Average Customer Rating,客户平均分
+Product Rating:,产品评价维度：
+Product Review (submitted on %1):,产品评价(提交在 %1):
+Back to Product Reviews,返回产品评价
+Allow Guests to Write Reviews,允许访客写评价

@@ -1,0 +1,79 @@
+None,无
+Sort Order,排序
+Title,标题
+Password,密码
+This allows breaking total order weight into smaller pieces if it exceeds %1 %2 to ensure accurate calculation of shipping charges.,如果超过%1 %2，允许订购总重量分解成小块以确保准确计算运费
+Wrong Content Type,错误内容类型
+Pounds,磅
+Kilograms,公斤
+Inches,英寸
+Centimeters,厘米
+inch,英寸
+cm,cm
+Height,高度
+Depth,深度
+Width,宽度
+Regular,定期的
+Specific,特殊的
+Easy shop,线上购物
+Sprintline,Sprintline
+Secureline,保全线路
+Express easy,简单快速
+Europack,欧洲包裹
+Break bulk express,集结式报关国际快递服务
+Medical express,医疗快递
+Express worldwide,全球国际快递服务
+Express 9:00,Express 9:00
+Express 10:30,Express 10:30
+Domestic economy select,国内经济型选择
+Economy select,经济选择
+Break bulk economy,散装经济型
+Domestic express,国内经济型
+Others,其它
+Globalmail business,全球邮件服务
+Same day,同一天
+Express 12:00,Express 12:00
+Express envelope,快递信封
+Customer services,客户服务
+Jetline,自动设备
+Freight worldwide,全球货运
+Jumbo box,超级重量箱
+DHL service is not available at %s date,在 %s天DHL 不提供服务
+The response is in wrong format.,该响应是错误的格式。
+Error #%1 : %2,错误 #%1 : %2
+We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).,"我们必须跳过DHL方法%1，因为我们找不到交换率%,2（基础货币）"
+Zero shipping charge for '%1',%1 免运费
+DHL,DHL
+Cannot identify measure unit for %1,无法为 %1 确定测量单位
+Cannot identify weight unit for %1,无法为 %1确定重量单位
+There is no items in this order,订单没有任何产品
+"Please, specify origin country",请说明原产国
+Documents,文件
+Non Documents,非文件
+"Height, width and length should be equal or greater than %1",高度、宽度和长度应等于或大于% 1
+Wrong Region,错误区域
+Unable to retrieve tracking,无法检索跟踪
+Response is in the wrong format,回应是错误的格式
+No packages for request,没有要求包裹
+Non documents,非文件
+Size,尺寸
+Debug,Debug
+Gateway URL,网关链接
+Enabled for Checkout,启用结帐
+Access ID,访问ID
+Account Number,帐户号码
+Content Type,内容类型
+Calculate Handling Fee,计算手续费
+Handling Applied,处理应用
+"""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""每个订单""允许整个订单收取一次手续费. ""每个包裹"" 允许每个包裹收取一次手续费"
+Handling Fee,手续费
+Divide Order Weight,划分订单权重
+This allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.,如果重量超过70KG，允许订购总重量分解成小块以确保准确计算运费
+Weight Unit,重量单位
+Allowed Methods,允许方法
+Displayed Error Message,显示错误信息
+Free Method,免费方式
+Free Shipping Amount Threshold,免费送货金额门槛
+Ship to Applicable Countries,发货到适用国家
+Ship to Specific Countries,发货到指定国家
+Show Method if Not Applicable,显示不适用的方法

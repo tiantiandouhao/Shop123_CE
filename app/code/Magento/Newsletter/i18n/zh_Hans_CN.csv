@@ -1,0 +1,142 @@
+Cancel,取消
+Back,返回
+ID,ID
+Action,操作
+Reset,重置状态
+Customer,客户
+Guest,来宾
+Email,电子邮件
+Delete,删除
+Store,商店
+Web Site,网站
+Status,状态
+Store View,店铺视图
+Type,类型
+A total of %1 record(s) were updated.,更新记录 %1
+Total of %1 record(s) were deleted,删除记录 %1
+Preview,预览
+Subject,主题
+Sent,已发送
+Not Sent,未发送
+Sending,正在发送
+Paused,已暂停
+Newsletter,邮件列表
+Updated,更新
+Newsletter Subscription,邮件列表订阅
+Add New Template,添加新模板
+Delete Template,删除模板
+Convert to Plain Text,转换为纯文本
+Preview Template,预览模板
+Save Template,保存模板
+Template Information,模板信息
+Template Name,模板名称
+Template Subject,模板主题
+Template Content,模板内容
+Template Styles,模板风格
+Edit Template,编辑模板
+New Template,新模板
+Template,模板
+Are you sure that you want to delete this template?,您是否确认要删除该模板？
+Sender Name,发送人姓名
+Sender Email,发送人邮件
+Message,信息
+Recipients,收件人
+Please enter a valid email address.,请输入有效的电子邮件地址。
+Delete Selected Problems,删除已选择的问题
+Unsubscribe Selected,退订所选者
+Save Newsletter,保存邮件列表
+Save and Resume,保存并恢复
+View Newsletter,查看邮件列表
+Edit Newsletter,编辑邮件列表
+Queue Information,队列信息
+Queue Date Start,队列日期开始
+Subscribers From,订阅者来自
+Newsletter Styles,邮件列表风格
+Start,开始
+Pause,暂停
+Do you really want to cancel the queue?,您确认要删除队列吗？
+Resume,恢复
+Newsletter Templates,邮件列表模板
+Newsletter Template,邮件列表模板
+Return HTML Version,返回HTML版本
+Save As,另存为
+Edit Newsletter Template,编辑邮件列表模版
+New Newsletter Template,新邮件列表模板
+No Templates Found,模板未找到
+Added,已添加
+Sender,发送方
+Template Type,模板类型
+Queue Newsletter...,队列邮件列表...
+Newsletter Problems Report,邮件列表问题报告
+Newsletter Problem Reports,邮件列表问题报告
+We unsubscribed the people you identified.,We unsubscribed the people you identified.
+The problems you identified have been deleted.,确定问题已被删除。
+Newsletter Queue,邮件列表队列
+Edit Queue,编辑队列
+Please correct the newsletter template and try again.,请更正邮件列表列队并重试
+The newsletter queue has been saved.,已保存邮件列表列队
+Newsletter Subscribers,邮件列表订阅者
+Subscribers,订阅者
+Please select one or more subscribers.,请选择一个或多个订阅者
+Create Newsletter Template,创建邮件列表模板
+The newsletter template has been saved.,邮件列表模板已保存
+An error occurred while saving this template.,保存模板时出错
+The newsletter template has been deleted.,邮件列表模板已删除
+An error occurred while deleting this template.,删除模板时出错
+Something went wrong while saving your subscription.,保存订阅时出错
+We saved the subscription.,您已保存订阅
+We removed the subscription.,您已删除订阅
+The confirmation request has been sent.,已发送确认请求。
+Thank you for your subscription.,感谢您的订阅。
+There was a problem with the subscription: %1,订阅时出错: %1
+Something went wrong with the subscription.,订阅时出错.
+Your subscription has been confirmed.,您的订阅已确认。
+This is an invalid subscription confirmation code.,这是一个无效的订阅确认码。
+This is an invalid subscription ID.,这是一个无效的订阅 ID.
+You have been unsubscribed.,您已经退订。
+Something went wrong with the un-subscription.,取消订阅时出错.
+This email address is already assigned to another user.,该电子邮件地址已分配给另一用户。
+"Sorry, but the administrator denied subscription for guests. ' 'Please <a href=""%1"">register</a>.","对不起， 但是管理员拒绝为访客订阅. ' '请 <a href=""%1"">注册</a>."
+Cancelled,已取消
+There are no subscribers selected.,没有订阅者可选择
+You selected an invalid queue.,您选择的是无效的行列.
+We cannot mark as received subscriber.,我们不能标记为已订阅者
+Duplicate template code,重复模板代码
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  -->' '<a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}' '</a>","点击此链接取消订阅 <!-- This tag is for unsubscribe link  -->' '<a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}' '</a>"
+Choose Store View:,选择商店界面:
+Newsletter Message Preview,邮件列表消息预览
+Add to Queue,添加到队列
+Are you sure that you want to strip all tags?,您确认要去除所有标签吗？
+Please enter new template name.,请输入新的模板名字
+ Copy,复制
+Sign Up for Our Newsletter:,订阅我们的邮件列表：
+Enter your email address,输入您的邮箱地址
+Subscribe,订阅
+CSV,CSV
+Excel XML,Excel XML
+Subscription Options,订阅选项
+Allow Guest Subscription,允许访客订阅
+Need to Confirm,需要确认
+Confirmation Email Sender,确认邮件发件人
+Confirmation Email Template,确认邮件模板
+Success Email Sender,订阅成功的邮件发送人
+Success Email Template,订阅成功的邮件模板
+Unsubscription Email Sender,退订邮件的发件人
+Unsubscription Email Template,退订邮件的模板
+We found no problems.,我们没有发现问题
+Subscriber,订阅者
+Queue Start Date,队列数据开始
+Queue Subject,队列主题
+Error Code,错误代码
+Error Text,错误文本
+Queue Start,队列开始
+Queue End,队列完成
+Processed,已处理
+Unsubscribe,退订
+Customer First Name,客户名字
+Customer Last Name,客户姓氏
+Not Activated,未激活
+Subscribed,已订阅
+Unsubscribed,已退订
+Unconfirmed,未确认
+Newsletter Subscriptions,邮件订阅

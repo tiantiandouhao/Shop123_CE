@@ -1,0 +1,25 @@
+All Store Views,所有商店界面
+-- Please Select --,"""-- 请选择 --"""
+Admin,管理员选项
+Store with the same code,商店代码重复
+Website with the same code,网站代码重复
+"Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","网站代码只能包含字母 (a-z), 数字 (0-9)或下划线(_), 第一个字符必须是字母"
+Name is required,名称必填
+"The store code may contain only letters (a-z), numbers (0-9) or underscore(_),' ' the first character must be a letter","网站代码可只包含字母(a-z), 数字 (0-9)或下划线(_), 第一个字符必须是字母"
+Your Language:,您的语言:
+Your Language,您的语言
+Language,语言
+Select Store,选择商店
+Helper arguments should not be used in custom layout updates.,在自定义布局更新中不应该使用辅助参数。
+Updater model should not be used in custom layout updates.,更新模型不能用于自定义布局更新。
+Please correct the XML data and try again. %value%,请更正 XML数据并重试. %value%
+Layouts,布局
+Layout building instructions.,布局建设指示.
+Blocks HTML output,HTML块输出
+Page blocks HTML.,HTML页面块。
+View files fallback,查看退回文件
+"Paths to view files (e.g., PHTML templates, images, CSS, JS files).","查看文件的路径 (例如, PHTML 模板, 图像, CSS, JS 文件)."
+View files pre-processing,查看预处理文件
+"Paths to pre-processed view files (e.g, CSS files with fixed paths or generated from LESS files).",预处理视图文件的路径 (例如 有固定路径的CSS文件 或 LESS文件生成).
+Collections Data,集合数据
+Collection data files.,采集的数据文件。

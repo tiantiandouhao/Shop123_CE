@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\Url\SecurityInfo">
+        <arguments>
+            <argument name="secureUrlList" xsi:type="array">
+                <item name="customer" xsi:type="string">/customer/</item>
+            </argument>
+            <argument name="excludedUrlList" xsi:type="array">
+                <item name="customer_sections" xsi:type="string">/customer/section/load</item>
+            </argument>
+        </arguments>
+    </type>
+    <type name="Magento\Framework\View\Layout">
+        <plugin name="customer-session-depersonalize"
+                type="Magento\Customer\Model\Layout\DepersonalizePlugin" sortOrder="10"/>
+    </type>
+    <type name="Magento\Framework\App\Action\Action">
+        <plugin name="customer-app-action-dispatchController-context-plugin"
+                type="Magento\Customer\Model\App\Action\ContextPlugin" sortOrder="10"/>
+    </type>
+    <preference for="Magento\Customer\CustomerData\SectionPoolInterface"
+                type="Magento\Customer\CustomerData\SectionPool"/>
+    <type name="Magento\Customer\CustomerData\SectionPoolInterface">
+        <arguments>
+            <argument name="sectionSourceMap" xsi:type="array">
+                <item name="customer" xsi:type="string">Magento\Customer\CustomerData\Customer</item>
+            </argument>
+        </arguments>
+    </type>
+</config>

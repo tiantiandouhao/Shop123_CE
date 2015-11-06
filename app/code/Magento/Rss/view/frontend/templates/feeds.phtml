@@ -1,0 +1,35 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<table class="data table rss">
+    <caption class="table-caption"><?php echo __('Feed'); ?></caption>
+    <tbody>
+        <th colspan="2" scope="col"><?php echo __('Miscellaneous Feeds') ?></th>
+    <?php foreach ($block->getFeeds() as $feed): ?>
+        <?php if (!isset($feed['group'])): ?>
+        <tr>
+            <td class="col feed"><?php echo $feed['label'] ?></td>
+            <td class="col action">
+                <a href="<?php echo $feed['link'] ?>" class="action get"><span><?php echo __('Get Feed'); ?></span></a>
+            </td>
+        </tr>
+        <?php else: ?>
+            <th colspan="2" scope="col"><?php echo $feed['group'] ?></th>
+            <?php foreach ($feed['feeds'] as $item) :?>
+                <tr>
+                    <td class="col feed"><?php echo $item['label'] ?></td>
+                    <td class="col action">
+                        <a href="<?php echo $item['link'] ?>" class="action get"><span><?php echo __('Get Feed'); ?></span></a>
+                    </td>
+                </tr>
+            <?php endforeach; ?>
+        <?php endif; ?>
+    <?php endforeach; ?>
+    </tbody>
+</table>

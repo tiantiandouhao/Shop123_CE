@@ -1,0 +1,160 @@
+Are you sure?,您确定吗?
+Cancel,取消
+Add Products,添加产品
+Product,产品
+SKU,SKU
+Qty,Qty
+Action,操作
+Incl. Tax,含税
+Add,添加
+Delete,删除
+Title,标题
+Type,类型
+Description,描述
+Select All,全选
+OK,OK
+Fixed,固定
+N/A,N/A
+Percent,百分之
+Close Window,关闭窗口
+Product Name,产品名
+Country,国家
+Payment Information,付款信息
+Shipping Information,送货信息
+City,城市
+Street Address,街道地址
+Weight,重量
+Contents,内容
+Package,包裹
+Packages,包裹
+Date,日期
+cm,cm
+Height,高度
+Width,宽度
+No packages for request,没有要求的包裹
+Region/State,地区/国家
+Location,位置
+Shipping Methods,配送方法
+Per Order,每订单
+All Allowed Countries,所有允许的国家
+Specific Countries,具体国家
+Status:,状态：
+Print,打印
+Custom Value,自定义值
+Print Shipping Label,打印发货标签
+Show Packages,显示包裹
+Products should be added to package(s),产品需添加到包裹
+Please specify a carrier.,请指定承运方
+Tracking Information,追踪信息
+"No detail for number ""%1""",没有数字 %1的细节
+Customs Value,海关完税价值
+Qty Ordered,订购的数量
+Create Shipping Label,创建出货标签
+Add Package,添加包裹
+Create Packages,创建包裹
+Size,尺寸
+Girth,周长
+Total Weight,总重量
+Length,长度
+Signature Confirmation,签名确认
+in,in
+lb,lb
+kg,kg
+Delete Package,删除包裹
+Explanation,解释
+Add Selected Product(s) to Package,添加已选择产品到包裹
+Please select products.,请选择产品
+Carrier,承运方
+Number,数字
+Items in the Package,包裹中的产品
+Shipping and Tracking Information,发货和追踪信息
+Track this shipment,跟踪货运
+Ship,发货
+Shipments,发货
+Order # %1,订单号 %1
+Back to My Orders,返货到我的订单
+View Another Order,查看另外一个订单
+The order no longer exists.,该订单不存在
+Cannot add new comment.,无法添加新评论。
+Total Shipping Charges,运费总计
+Append Comments,增加备注
+The order was placed using %1.,使用 %1下单
+No shipping information available,没有配送信息
+Items Shipped,已发产品
+Qty Shipped,已发数量
+New Shipment for Order #%1,订单#%1 新的配送信息
+Submit Shipment,提交配送
+You are trying to add a quantity for some products that doesn't match the quantity that was shipped.,试图添加的一些产品的数量与已发货产品数量不匹配
+The value that you entered is not valid.,您输入的值无效
+Add Tracking Number,添加跟踪码
+Send Tracking Information,发送跟踪信息
+Are you sure you want to send a Shipment email to customer?,您确认
+the shipment email was sent,配送邮件已发送
+the shipment email is not sent,配送邮件未发出
+Shipment #%1 | %3 (%2),配送 #%1 | %3 (%2)
+Create Shipping Label...,创建出货标签...
+About Your Shipment,关于你的配送
+Cannot do shipment for the order separately from invoice.,Cannot do shipment for the order separately from invoice.
+Cannot do shipment for the order.,该订单不能配送
+Please enter a tracking number.,请输入跟踪码
+New Shipment,新配送
+The shipment has been created.,已创建配送
+You created the shipping label.,您已创建出货标签
+An error occurred while creating shipping label.,创建出货标签时出错
+Cannot save shipment.,不能保存配送
+You sent the shipment.,您发送了配送信息
+Cannot send shipment information.,无能发送发货信息
+Cannot initialize shipment for adding tracking number.,Cannot initialize shipment for adding tracking number.
+Cannot add tracking number.,无法添加追踪码
+Cannot initialize shipment for delete tracking number.,Cannot initialize shipment for delete tracking number.
+Cannot delete tracking number.,无法删除追踪码
+Cannot load track with retrieving identifier.,无法加载跟踪检索标识符。
+The comment text field cannot be empty.,评论文本字段不能为空。
+We don't recognize or support the file extension in this shipment: %1.,我们不承认或支持该配送的文件扩展名: %1.
+There are no shipping labels related to selected orders.,没有已选择订单相应的出货标签
+There are no shipping labels related to selected shipments.,没有已选择配送相应的出货标签
+"Sorry, but we can't deliver to the destination country with this shipping module.",很抱歉，我们无法以这个运输模块将货物运送到目的地国。
+The shipping module is not available.,运送模块不可用。
+This shipping method is not available. Please specify the zip code.,发货方式不可用， 请指定邮编
+Development,发展
+Live,Live
+Divide to equal weight (one request),拆分为相等重量（申请一次）
+Use origin weight (few requests),使用原始重量（较少请求）
+We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.,我们没有足够的信息去创建发货标签. 确保您的商店信息和设置已完成。
+Per Package,每个包裹
+Tracking information is unavailable.,跟踪信息不可用。
+Items to Ship,配送商品
+Qty to Ship,配送数量
+Shipment Comments,配送备注
+Email Copy of Shipment,配送的邮件复件
+Invalid value(s) for Qty to Ship,配送数量的值无效
+USPS domestic shipments don't use package types.,USPS国内出货不使用封装类型。
+Shipping &amp; Handling Information,配送和操作信息
+Track Order,追踪订单
+Shipment History,配送记录
+Print All Shipments,打印所有配送
+Shipment #,送货单号
+Print Shipment,打印配送
+Tracking Number(s):,追踪号码:
+Tracking Number:,追踪号码：
+Carrier:,运营商：
+Error:,错误：
+Tracking information is currently not available. Please ,追踪信息当前不可用。请
+contact us,联系我们
+ for more information or ,欲知详情或
+email us at ,发送电子邮件给我们：
+Info:,信息：
+Track:,追踪：
+Delivered on:,发布于：
+Signed by:,签名者：
+Delivered to:,发布至：
+Shipped or billed on:,发送或扣款于：
+Service Type:,服务类型：
+Weight:,重量：
+Local Time,本地时间
+There is no tracking available for this shipment.,此运送项目无可用的状态追踪。
+There is no tracking available.,没有可用的追踪。
+ZIP/Postal Code,邮政编码
+Street Address Line 2,街道地址线2
+Shipping Settings,运送设置
+Origin,产地

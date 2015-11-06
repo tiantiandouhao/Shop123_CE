@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Event/etc/events.xsd">
+    <event name="catalog_product_save_after">
+        <observer name="googleoptimizer_observer" instance="Magento\GoogleOptimizer\Model\Observer\Product\Save" method="saveGoogleExperimentScript" />
+    </event>
+    <event name="catalog_product_delete_after">
+        <observer name="googleoptimizer_observer" instance="Magento\GoogleOptimizer\Model\Observer\Product\Delete" method="deleteProductGoogleExperimentScript" />
+    </event>
+    <event name="catalog_category_save_after">
+        <observer name="googleoptimizer_observer" instance="Magento\GoogleOptimizer\Model\Observer\Category\Save" method="saveGoogleExperimentScript" />
+    </event>
+    <event name="catalog_category_delete_after">
+        <observer name="googleoptimizer_observer" instance="Magento\GoogleOptimizer\Model\Observer\Category\Delete" method="deleteCategoryGoogleExperimentScript" />
+    </event>
+    <event name="cms_page_save_after">
+        <observer name="googleoptimizer_observer" instance="Magento\GoogleOptimizer\Model\Observer\CmsPage\Save" method="saveGoogleExperimentScript" />
+    </event>
+    <event name="cms_page_delete_after">
+        <observer name="googleoptimizer_observer" instance="Magento\GoogleOptimizer\Model\Observer\CmsPage\Delete" method="deleteCmsGoogleExperimentScript" />
+    </event>
+    <event name="adminhtml_catalog_category_tabs">
+        <observer name="googleoptimizer_observer" instance="Magento\GoogleOptimizer\Model\Observer\Block\Category\Tab" method="addGoogleExperimentTab" />
+    </event>
+</config>

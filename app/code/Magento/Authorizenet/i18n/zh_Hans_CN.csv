@@ -1,0 +1,100 @@
+Cancel,取消
+"You don't have enough on your credit card to pay for this purchase. To complete your purchase, click ""OK"" and add a credit card to use for the balance. Otherwise, you can cancel the purchase and release the partial payment we are holding.",您的信用卡上没有足够的钱来支付. 请单击“确定”，并添加一个信用卡使用余额完成您的购买. 否则，您可以取消购买并释放我们所持有的部分付款.
+Your credit card has been declined. You can click OK to add another credit card to complete your purchase. Or you can cancel this credit transaction and pay a different way.,你的信用卡被拒绝了. 您可以点击 确认添加另外一张信用卡来完成购买.或者你可以取消这次交易，以另外方式付款。
+We canceled your payment and released any money we were holding.,我们取消了您的付款，并释放了我们所持有的款项
+"You can't use any more credit cards for this payment, and you don't have enough to pay for this purchase. Sorry, but we'll have to cancel your transaction.",你不能再使用任何信用卡支付，而你没有足够余额来完成这次购买。对不起，我们得取消您的交易。
+"Your order has not been placed, because the contents of the shopping cart and/or your address has been changed. Authorized amounts from your previous payment that were left pending are now released. Please go through the checkout process to purchase your cart contents.",因为购物车和/或您的地址已更改，您的订单未生成。之前等待付款的授权金额现已经释放，请重新执行结账流程来购买您的购物车内产品。
+Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment.,您是否确定要取消支付？单击确定可取消您的支付，并释放占用的额度。单击取消可输入其他信用卡，并继续进行支付。
+Processed Amount,处理的额度
+Remaining Balance,剩下的余额
+Order saving error: %1,订单保存错误: %1
+Please choose a payment method.,请选择支付方式
+You created the order.,您已创建订单
+Something went wrong canceling the transactions.,取消交易时出错
+There was an error canceling transactions. Please contact us or try again later.,取消交易时遇到了错误。请联系我们或稍候重试。
+We couldn't process your order right now. Please try again later.,现在我们不能处理你的订单。请稍后再试
+amount %1,金额 %1
+failed,失败
+successful,成功
+Credit Card: xxxx-%1,信用卡: xxxx-%1
+Authorize.Net Transaction ID %1,Authorize.Net交易号 %1
+authorize,授权
+authorize and capture,授权和获取
+capture,获取
+refund,退款
+void,避免
+This is an invalid amount for authorization.,授权金额无效
+This is an invalid amount for capture.,捕获金额无效
+This is an invalid amount for refund.,退款金额无效
+This is an invalid split tenderId ID.,This is an invalid split tenderId ID.
+Something went wrong while canceling the payment.,取消付款时出错
+Something went wrong while authorizing the payment.,授权付款时出错
+Something went wrong while capturing the payment.,捕获付款时出错
+The shopping cart contents and/or address has been changed.,购物车的内容和/或地址已更改。
+This is an invalid amount for partial authorization.,部分授权金额无效
+Parent Authorize.Net transaction (ID %1) expired,上级 Authorize.Net 交易 (ID %1) 过期
+Something went wrong while voiding the payment.,取消支付时出错
+Something went wrong while refunding the payment.,退款时出错
+You have reached the maximum number of credit cards ' 'allowed to be used for the payment.,您已经达到了最大限度的可以用于支付信用额度
+Something went wrong while authorizing the partial payment.,授权部分付款时出错
+Something went wrong in the payment gateway.,支付网关出错
+Gateway error: %1,网关错误: %1
+Gateway actions are locked because the gateway cannot complete ' 'one or more of the transactions. ' 'Please log in to your Authorize.Net account to manually resolve the issue(s).,网关操作被锁定，因为网关不能完成一个或多个交易.请登录到您的授权。净帐户以手动解决该问题。
+Payment updating error.,支付更新错误。
+Authorize Only,仅供授权
+Authorize and Capture,授权和捕获
+Invalid amount for capture.,获取的额度无效。
+Payment capturing error.,支付捕获出错。
+Invalid transaction ID.,无效的交易ID.
+Payment voiding error.,支付的作废出错。
+Invalid amount for refund.,退款额度无效。
+Payment refunding error.,支付的退款出错。
+The transaction was declined because the response hash validation failed.,该交易被拒绝，因为响应hash验证失败.
+This payment didn't work out because we can't find this order.,付款未完成， 因为我们找不到该订单
+There was a payment authorization error.,付款授权错误。
+This payment was not authorized because the transaction ID field is empty.,此付款没有被授权，因为交易标识字段是空的
+"Amount of %1 approved by payment gateway. Transaction ID: ""%2"".","经缴费网关核定金额 %1. 交易ID: ""%2""."
+Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.,出错了：支付金额与订单金额不符。请纠正并再试一次。
+Credit Card Type,信用卡类型
+Credit Card Number,信用卡号码
+Expiration Date,过期日期
+Card Verification Number,卡片验证号码
+"Click ""Cancel"" to remove any pending status and release money already processed during this payment.",单击“取消 删除任何代付款的状态并释放在这个已经处理订单的款项
+Please enter a different credit card number to complete your purchase.,请输入另外一个信用卡账号来完成购物
+Credit Card %1,信用卡 %1
+Credit Card Information,信用卡信息
+--Please Select--,-- 请选择 --
+Card Verification Number Visual Reference,信用卡验证号码 视觉参考
+What is this?,这是什么？
+You'll be asked for your payment details before placing an order.,在下订单前，您需提供付款信息
+"To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.",取消代付款授权和释放在该付款期间已处理的金额，请点击取消
+Processing...,处理中...
+Enabled,启动
+Sort Order,排序
+Title,标题
+3D Secure Card Validation,3D安全验证卡
+New Order Status,新订单状态
+No confirmation,没有确认
+Authorize.net,Authorize.net
+Credit Card Types,信用卡类型
+Credit Card Verification,信用卡验证
+Email Customer,发邮件给客户
+API Login ID,登录号
+Merchant's Email,商户邮件
+Test Mode,测试模板
+Debug,调试
+Transaction Key,交易密钥
+Payment Action,支付行为
+Accepted Currency,接受货币
+Payment from Applicable Countries,来自适用国家的付款
+Payment from Specific Countries,来自特定国家的付款
+Minimum Order Total,最低订货总额
+Maximum Order Total,最高订单金额
+Allow Partial Authorization,允许部分授权
+3D Secure,3D 安全
+Severe 3D Secure Card Validation,严格的3D安全验证卡
+Severe Validation Removes Chargeback Liability on Merchant,严格验证后删除商家的退款责任
+"If you leave this empty, we'll use a default value. The custom URL may be provided by CardinalCommerce agreement.",如果此处为空，我们会使用默认值. 基本贸易协定将提供自定义网址
+Authorize.net Direct Post,Authorize.net 直接过帐
+Merchant MD5,商家 MD5
+Gateway URL,网关网址

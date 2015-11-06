@@ -1,0 +1,14 @@
+We can't save the cron expression.,我们无法保存cron表达式
+Daily,每天
+Weekly,每周
+Monthly,每月
+Cron (Scheduled Tasks) - all the times are in minutes,Cron (计划任务) – 时间单位为分钟
+For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.,为了在cron运行过程中产生正确的网址，请确认网络 > 安全和不安全基准网址已设置
+Cron configuration options for group: ,Cron配置选项分组: 
+Generate Schedules Every,产生时间表每
+Schedule Ahead for,计划提前
+Missed if Not Run Within,错过如果不运行于
+History Cleanup Every,清除记录每
+Success History Lifetime,成功记录时间
+Failure History Lifetime,失败记录时间
+Use Separate Process,使用单独的进程

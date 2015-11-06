@@ -1,0 +1,106 @@
+Back,返回
+Product Name,产品
+Quantity,数量
+Configure,配置
+You added %1 to your shopping cart.,您已添加 %1 到您的购物车
+Action,操作
+Are you sure that you want to remove this item?,您确认要删除该项目吗
+Edit,编辑
+Remove item,删除项目
+Add to Cart,添加到购物车
+Delete,删除
+Enabled,激活
+We cannot add this item to your shopping cart.,我们不能将此产品添加到您的购物车中
+* Required Fields,*必要字段
+Availability,库存
+In stock,现货
+Out of stock,缺货
+Click for price,单击获取价格
+What's this?,这是什么？
+1 item,1个项目
+%1 items,%1产品
+Add to Wishlist,添加到收藏
+Remove This Item,删除该内容
+Add to Compare,添加并比较
+The product does not exist.,产品不存在
+Display item quantities,显示产品数量
+View Details,查看详情
+Options Details,选项详情
+Comment,评论
+Add Locale,已添加，来自
+Add Date,添加日期
+Days in Wish List,收藏的天数
+Wishlist,收藏夹
+Wish List,收藏夹
+Message,信息
+Email Template,邮件模板
+Remove Item,删除项目
+Sharing Information,分享信息
+This product(s) is out of stock.,该产品缺货
+An item option with code %1 already exists.,具有编码 %1的选项已存在
+%1's Wish List,%1 的收藏夹
+Product(s) %1 have required options. Each product can only be added individually.,产品 %1 具有要求的选项. 每个产品只能单独添加.
+%1 product(s) have been added to shopping cart: %2.,产品%1 已经添加到购物车: %2.
+Please input a valid email address.,请输入有效电子邮件地址。
+RSS Feed,RSS源
+Wish List Sharing,收藏夹共享
+My Wish List,我的收藏夹
+"%1 for ""%2"".","%1 for ""%2""."
+We couldn't add the following product(s) to the shopping cart: %1.,我们不能将以下产品添加到购物车: %1.
+We can't update wish list.,我们无法更新收藏夹
+The requested wish list doesn't exist.,请求的收藏夹不存在
+Wish List could not be created.,无法创建收藏夹
+We can't specify a product.,我们无法指定一个产品
+"%1 has been added to your wishlist. Click <a href=""%2"">here</a> to continue shopping.","%1已添加到您的收藏夹. Click <a href=""%2"">here</a>继续购物"
+An error occurred while adding item to wish list: %1,添加产品到收藏夹时出错: %1
+An error occurred while adding item to wish list.,添加产品到收藏夹时出错
+We can't load the wish list item.,我们无法加载收藏夹中的产品
+We can't configure the product.,我们无法配置该产品.
+%1 has been updated in your wish list.,%1 已在您的收藏夹中更新.
+An error occurred while updating wish list.,更新收藏夹时出错.
+Can't delete item from wishlist,无法从愿望清单中删除项目
+Can't save description %1,无法保存描述 %1
+Can't update wish list,无法更新收藏夹
+An error occurred while deleting the item from wish list: %1,从收藏夹中删除该产品时出错：%1
+An error occurred while deleting the item from wish list.,从收藏夹中删除该产品时出错
+Cannot add item to shopping cart,无法添加内容到购物车
+The requested cart item doesn't exist.,请求的购物车产品不存在
+%1 has been moved to wish list %2,%1已移送至收藏夹 %2
+We can't move the item to the wish list.,我们不能将该产品已送至收藏夹
+Message length must not exceed %1 symbols,消息长度不能超过% 1符号
+Email address can't be empty.,邮件地址不能为空。
+This wishlist can be shared %1 more times.,该收藏夹可多次分享 %1
+Your wish list has been shared.,您的收藏夹已共享
+Please enter your comments.,请输入您的评论。
+Display number of items in wish list,显示收藏夹中产品数
+We can't specify a wish list.,我们不能指定收藏夹
+Cannot specify product.,无法指定产品。
+Invalid item option format.,无效的产品格式选项。
+We can't specify a wish list item.,我们不能指定收藏夹产品
+Share Wish List,共享收藏夹
+Add All to Cart,全部添加到购物车
+Update Wish List,更新收藏夹
+View Product,查看产品
+RSS link to %1's wishlist,RSS 链接至 %1的收藏夹
+This Wish List has no Items,收藏夹中无产品
+Wish List is empty now.,收藏夹为空
+"Email addresses, separated by commas",邮件地址，使用逗号分隔
+Check this checkbox if you want to add a link to an rss feed to your wishlist.,如果希望将到RSS源的链接添加到您的愿望清单，就选中该选项。
+Share Wishlist,分享收藏夹
+Last Added Items,最后添加的内容
+Go to Wish List,转到收藏夹
+You have no items in your wish list.,您的收藏夹中没有产品
+Are you sure you want to remove this product from your wishlist?,您是否确认要从愿望清单中删除该产品？
+Email Sender,邮件发件人
+General Options,基本选项
+Share Options,分享选项
+Max Emails Allowed to be Sent,允许发送的最大邮件
+10 by default. Max - 10000,默认为10. 最大 - 10000
+Email Text Length Limit,邮件文本长度限制
+255 by default,默认为255
+My Wish List Link,我的收藏夹链接
+Display Wish List Summary,收藏夹显示
+No Items Found,未发现产品
+User Description,用户描述
+Product Details and Comment,产品详情与评论
+Add to Wish List,添加到收藏

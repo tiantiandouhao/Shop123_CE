@@ -1,0 +1,113 @@
+﻿None,无
+No,否
+Email,电子邮件
+Yes,是
+System,系统
+Required,必须
+label,标签
+Attribute Code,属性代码
+For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols,内部使用。必须是独一无二且没有空格。属性代码的最大长度必须小于% 1符号,作为内部使用。必须为唯一.
+Default Value,默认值
+Unique Value,唯一数值
+Unique Value (not shared with other products),唯一数值（不与其它产品共享）
+Not shared with other products,未与其它产品共享
+Input Validation for Store Owner,店铺所有者的输入验证
+"The value of attribute ""%1"" must be set",属性 %1 的值必须设置
+Multiple Select,多选
+Dropdown,下拉菜单
+Text Field,文本字段
+Text Area,文本区
+Date,日期
+Yes/No,是/否
+URL,URL
+Attribute object is undefined,属性对象未定义
+"""%1"" invalid type entered.","""%1""无效类型输入。"
+"""%1"" contains non-alphabetic or non-numeric characters.","""%1"" 包含非字母数字或非数字字符。"
+"""%1"" is an empty string.","""%1"" 是空字符串。"
+"""%1"" contains non-numeric characters.","""%1"" 包含非数字字符"
+"""%1"" contains non-alphabetic characters.","""%1"" 包含非字母字符"
+"""%1"" is not a valid email address.","""%1"" 是无效的邮箱地址"
+"""%1"" is not a valid hostname.","""%1"" 是无效主机名"
+"""%1"" exceeds the allowed length.","""%1"" 超过允许长度"
+"%value%' appears to be an IP address, but IP addresses are not allowed.",%value%' 似乎是一个IP地址， 但是是不允许的地址
+'%value%' appears to be a DNS hostname but cannot match TLD against known list.,%value%' 似乎是一个DNS主机名，但不能与已知列表的TLD匹配
+'%value%' appears to be a DNS hostname but contains a dash in an invalid position.,%value%' 似乎是一个DNS主机名，但在无效的位置包含一个破折号。
+'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'.,%value%' 似乎是一个DNS主机名， 但不能与主机名模式TLD '%tld%'匹配
+'%value%' appears to be a DNS hostname but cannot extract TLD part.,%value%'似乎是一个DNS主机名， 但不能提取TLD部分
+'%value%' does not appear to be a valid local network name.,%value%'似乎不是一个有效的本地网络名称
+'%value%' appears to be a local network name but local network names are not allowed.,%value%' 似乎是本地网络名称，但有不是允许的本地网络名称。
+'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded.,%value%' 似乎是一个DNS主机名，但是所给的中文域名符号无法进行解码.
+"""%1"" is not a valid URL.","""%1"" 是无效网址"
+"""%1"" is not a valid date.","""%1"" 是无效日期"
+"""%1"" does not fit the entered date format.","""%1"" 不适合已输入的日期格式"
+"""%1"" is a required value.","""%1"" 是必填值."
+Please enter a valid date between %1 and %2 at %3.,请输入在 %1 和 %2 之间的正确日期 %3
+Please enter a valid date equal to or greater than %1 at %2.,请在 %2 大于或等于 %1 的有效日期
+Please enter a valid date less than or equal to %1 at %2.,请在 %2 小于或等于 %1 的有效日期
+"""%1"" is not a valid file extension.","""%1""不是有效的文件扩展名"
+"""%1"" is not a valid file.","""%1""不是有效文件."
+"""%1"" exceeds the allowed file size.","""%1"" 超过允许的文件大小."
+"""%1"" width exceeds allowed value of %2 px.","""%1"" 宽度超过允许值% 2像素。"
+"""%1"" height exceeds allowed value of %2 px.","""%1"" 长度超过允许值% 2像素。"
+"""%1"" length must be equal or greater than %2 characters.","""%1"" 长度必须大于或等于% 2个字符。"
+"""%1"" length must be equal or less than %2 characters.","""%1"" 长度必须小于或等于% 2个字符。."
+Maximum length of attribute code must be less than %1 symbols,属性码的最大长度必须小于% 1符号
+Attribute Properties,属性的属性
+Attribute Label,属性标签
+Catalog Input Type for Store Owner,店铺所有者的分类输出类型
+Values Required,需要数值
+Decimal Number,十进制数
+Integer Number,整数
+Letters,字母
+"Letters (a-z, A-Z) or Numbers (0-9)","字母 (a-z, A-Z) 或数字 (0-9)"
+"Input type ""%value%"" not found in the input types list.","输入类型 ""%value%"" 未在输入类型列表中找到."
+Entity object is undefined,实体对象未定义
+"""%1"" is not a valid file","""%1"" 不是有效文件"
+"""%1"" is not a valid image format","""%1"" 不是有效的图像格式"
+Invalid entity_type specified: %1,Invalid entity_type specified: %1
+Entity is not initialized,实体未初始化
+Unknown parameter,未知参数
+The attribute code '%1' is reserved by system. Please try another attribute code,属性码 %1 已经保存在系统中. 请尝试另外一个属性码
+Invalid default decimal value,无效的默认十进制数值
+Invalid default date,无效的默认日期
+Invalid entity supplied,无效的实体提供
+Invalid backend model specified: ,指定了无效的后端模型: 
+"Source model ""%1"" not found for attribute ""%2""","源模型""% 1""未找到属性""% 2"""
+"The value of attribute ""%1"" must be unique","属性 ""%1"" 的值必须是独一无二的"
+Invalid date,无效的日期
+Attribute set name is empty.,属性集名称为空
+"An attribute set with the ""%1"" name already exists.",名为 %1的属性集已经存在
+No options found.,没有找到任何选择。
+Invalid entity supplied: %1,提供的实体不正确: %1
+Attempt to add an invalid object,尝试添加的对象无效
+Invalid attribute identifier for filter (%1),过滤器(%1)属性标识符无效 
+Invalid attribute requested: %1,请求的属性无效: %1
+Joint field or attribute expression with this alias is already declared,使用此别名的合并字段或属性表达式已被声明
+"Invalid alias, already exists in joint attributes",无效的别名、已经存在于联合属性中。
+Invalid foreign key,无效的外键
+Invalid entity type,无效的实体类型
+Invalid attribute type,无效的属性类型
+A joined field with this alias is already declared.,A joined field with this alias is already declared.
+Invalid joint fields,无效的合并字段
+A joint field with this alias (%1) is already declared.,A joint field with this alias (%1) is already declared.
+Data integrity: No header row found for attribute,数据完整性：属性的表头行没找到
+Invalid attribute name: %1,无效的属性名称 %1
+Invalid character encountered in increment ID: %1,有无效的字符在增量编号中: %1
+Wrong entity ID,错误的实体 ID
+Wrong attribute set ID,错误的属性设置 ID
+Wrong attribute group ID,错误的属性群组 ID
+Default option value is not defined,默认选项值未定义
+Current module pathname is undefined,当前模块路径名未定义
+Current module EAV entity is undefined,当前模块EAV实体未定义
+Form code is not defined,表单代码未定义
+Entity instance is not defined,实体实例未定义
+Invalid form type.,无效的表单类型。
+Invalid EAV attribute,无效的 EAV 属性
+Attribute with the same code,使用相同代码的属性
+Frontend label is not defined,前端标签未定义
+Form Element with the same attribute,使用相同属性的表单元素
+Form Fieldset with the same code,使用相同代码的表单字段集
+Form Type with the same code,使用相同代码的表单类型
+"The value of attribute ""%1"" is invalid","属性 ""%1""的值 无效"
+EAV types and attributes,AV的类型和属性
+Entity types declaration cache.,实体类型声明缓存。

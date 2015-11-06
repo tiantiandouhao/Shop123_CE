@@ -1,0 +1,75 @@
+Back,返回
+ID,ID
+Action,操作
+Reset,重置
+Country,国家
+City,城市
+Zip/Postal Code,邮编
+Preview,预览
+1%,1%
+Insert Variable...,插入变量...
+Subject,主题
+Unknown,未知
+Updated,已更新
+Add New Template,添加新模板
+Transactional Emails,交易邮件
+Delete Template,删除模板
+Convert to Plain Text,转换为纯文本
+Return Html Version,返回HTML版本
+Preview Template,预览模板
+Save Template,保存模板
+Load Template,加载模板
+Edit Email Template,编辑邮件模板
+New Email Template,新邮件模板
+GLOBAL,GLOBAL
+Template Information,模板信息
+Currently Used For,目前用于
+Used as Default For,默认用作为
+Template Name,模板名称
+Template Subject,模板主题
+Template Content,模板内容
+Template Styles,模板类型
+Email Templates,邮件模板
+Edit Template,编辑模板
+Edit System Template,编辑系统模板
+New Template,新模板
+New System Template,新系统模板
+This email template no longer exists.,不存在该邮件模板
+The email template has been saved.,邮件模板已保存
+The email template has been deleted.,邮件模板已删除。
+The email template is currently being used.,邮件模板目前正在使用。
+An error occurred while deleting email template data. Please review log and try again.,删除邮件模板数据时出错. 请查看日志并且重试
+We can't find an email template to delete.,找不到要删除的邮件模板
+An error occurred. The email template can not be opened for preview.,出错了，邮件模板不能点开预览.
+Base Unsecure URL,不安全基准网址
+Base Secure URL,基准安全网址
+General Contact Name,通用联系人姓名
+General Contact Email,通用联系人邮件
+Sales Representative Contact Name,销售代表联系名称
+Sales Representative Contact Email,销售代表联系邮件
+Custom1 Contact Name,自定义1 联系姓名
+Custom1 Contact Email,自定义1 联系邮件
+Custom2 Contact Name,自定义2 联系姓名
+Custom2 Contact Email,自定义2 联系邮件
+Store Name,店铺名称
+Store Phone Number,店铺电话号码
+Region/State,地区/国家
+Street Address 1,街道地址 1
+Street Address 2,街道地址 2
+Store Contact Information,店铺联系人信息
+Template Variables,模板变量
+The template Name must not be empty.,模板名称不能为空
+Duplicate Of Template Name,复制模板名称
+Invalid transactional email code: %1,无效的交易邮件代码: %1
+"Requested invalid store ""%1""","要求无效的店铺""%1"""
+Invalid sender data,无效的发件人数据
+Load default template,加载默认模板
+Template,模板
+Are you sure that you want to strip tags?,您确定输入框中的问题不进行过滤？
+Are you sure that you want to delete this template?,您确定要删除模板吗？
+Failed to load template. See error log for details.,加载模板失败. 查看日志错误细节
+Email Preview,邮件预览
+No Templates Found,没有找到模板
+Added,已经添加
+Template Type,模板类型
+Communications,邮件营销

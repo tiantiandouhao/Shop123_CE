@@ -1,0 +1,34 @@
+All,所有
+Custom,自定义
+Resource Access,资源访问
+Resources,资源
+API,API
+Internal Error. Details are available in Magento log file. Report ID: %1,内部错误. 细节在Magento的日志文件是可用的。报告编号: %1
+Server internal error. See details in report api/%1,服务器内部错误.在api/ %1 报告中查看细节
+Magento is not yet installed,Magento 尚未安装
+Operation allowed only in HTTPS,只有在HTTPS允许此操作
+Content-Type header is empty.,内容类型标头为空
+Content-Type header is invalid.,内容类型标头无效
+UTF-8 is the only supported charset.,UTF-8是唯一支持的字符集。
+Request method is invalid.,请求方法无效。
+Decoding error.,译码错误
+Decoding error: %1%2%3%4,译码错误: %1%2%3%4
+"Server cannot match any of the given Accept HTTP header media type(s) from the request: %1 with media types from the config of response renderer."""," ""Server cannot match any of the given Accept HTTP header media type(s) from the request: ""%1 with media types from the config of response renderer."""
+Request does not match any route.,请求不匹配任何路径
+Not allowed parameters: %1. Please use only %2 and %3.,不允许参数: %1.请使用 %2 和 %3.
+Incorrect format of WSDL request URI or Requested services are missing.,WSDL请求的URI的格式不正确或缺少要求的服务。
+"Operation ""%1"" not found.",未发现操作 %1
+"Requested service is not available: ""%1""","请求的服务是不可用: ""%1"""
+Invalid XML,无效的 XML
+Invalid XML: Detected use of illegal DOCTYPE,无效的XML: 发现使用非法 DOCTYPE
+No permissions requested,没有请求期限
+Available APIs,可用的APIs
+Magento Web API,Magento 网络 API
+SOAP Settings,SOAP设置
+Default Response Charset,默认响应字符集
+"If empty, UTF-8 will be used.","如果为空, 将使用UTF-8."
+Enable WSDL Cache,启动WSDL缓存
+Web Services Configuration,网络服务配置
+"REST and SOAP configurations, generated WSDL file.",REST和SOAP配置，生成WSDL文件。
+Integrations API Configuration,集成API配置
+Integrations API configuration file.,集成API配置文件

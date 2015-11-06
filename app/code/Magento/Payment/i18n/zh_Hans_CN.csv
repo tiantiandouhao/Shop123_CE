@@ -1,0 +1,41 @@
+No,No
+Discount,折扣
+Credit Card Type,信用卡类型
+Credit Card Number,信用卡号码
+Expiration Date,过期日期
+Card Verification Number,卡片验证号码
+--Please Select--,-- 请选择 --
+Card Verification Number Visual Reference,信用卡校验码可视参照
+What is this?,这是什么？
+Shipping,发货
+Yes,是
+N/A,N/A
+Month,月
+Year,年
+Start Date,开始日期
+We cannot retrieve the payment method model object.,无法获取支付方式模块对象
+We cannot retrieve the payment info model object.,无法获取支付信息模块对象
+Switch/Solo/Maestro Issue Number,Switch/Solo/Maestro卡号
+Switch/Solo/Maestro Start Date,Switch/Solo/Maestro开始日期
+All Allowed Countries,所有允许国家
+Specific Countries,指定国家
+The payment method you requested is not available.,您要求的付款方式不可用
+The payment disallows storing objects.,付款不允许存储对象。
+We cannot retrieve the payment method code.,无法获取支付方式码
+We cannot retrieve the payment information object instance.,我们无法获取付款信息对象实例。
+You can't use the payment type you selected to make payments to the billing country.,你不能用你选择的付款方式付款给账单国家
+The order action is not available.,下单操作不可用
+The authorize action is not available.,授权操作不可用
+The capture action is not available.,扣款操作不可用
+The refund action is not available.,退款操作不可用
+Void action is not available.,空操作不可用。
+The payment review action is unavailable.,支付审查操作不可用。
+Credit card number mismatch with credit card type.,信用卡号与信用卡类型不匹配。
+Invalid Credit Card Number,信用卡号无效
+Credit card type is not allowed for this payment method.,信用卡类型无法用于此支付方法。
+Please enter a valid credit card verification number.,请输入有效的信用卡验证码。
+We found an incorrect credit card expiration date.,我们发现信用卡过期日期不正确
+Switch/Solo/Maestro Only,仅限 Switch/Solo/Maestro
+Issue Number,问题编号
+%1 is not available. You still can process offline actions.,% 1不可用。你还可以离线操作。
+Payment Methods,付款方式

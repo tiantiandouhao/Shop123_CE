@@ -1,0 +1,26 @@
+No,否
+Previous,上一步
+Position,位置
+Shop By,购物
+Shopping Options,购物选项
+Remove This Item,删除该产品
+Clear All,清除所有
+Use In Layered Navigation,使用分层导航
+"Can be used only with catalog input type Dropdown, Multiple Select and Price",仅用于目录下拉菜单、多重选择和价格
+Filterable (with results),滤过（有结果）
+Filterable (no results),滤过（无结果）
+Use In Search Results Layered Navigation,使用搜索结果内层次导航
+Position in Layered Navigation,层导航中位置
+Position of attribute in layered navigation block,层导航方框中的属性位置
+Use in Layered Navigation,用于分层导航
+Currently Shopping by:,当前购物人:
+Layered Navigation,层导航
+Display Product Count,显示产品计数
+Price Navigation Step Calculation,价格导航步计算
+Default Price Navigation Step,默认价格导航步
+Maximum Number of Price Intervals,价格区间的最大数量
+Maximum number of price intervals is 100,价格区间的最大数量是100
+Display Price Interval as One Price,价格区间显示为一个价格
+This setting will be applied when all prices in the specific price interval are equal.,当具体价格区间中所有价格都是平等时，此设置将被应用.
+Interval Division Limit,区间划分限制
+"Please specify the number of products, that will not be divided into subintervals.",请指定部分区间的产品数量

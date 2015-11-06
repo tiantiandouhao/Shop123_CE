@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+    <type name="Magento\Catalog\Controller\Adminhtml\Product\Initialization\Helper">
+        <plugin name="configurable" type="Magento\ConfigurableProduct\Controller\Adminhtml\Product\Initialization\Helper\Plugin\Configurable" sortOrder="50" />
+    </type>
+    <type name="Magento\Catalog\Controller\Adminhtml\Product\Builder">
+        <plugin name="configurable" type="Magento\ConfigurableProduct\Controller\Adminhtml\Product\Builder\Plugin" sortOrder="50" />
+    </type>
+    <type name="Magento\Catalog\Model\Product\Validator">
+        <plugin name="configurable" type="Magento\ConfigurableProduct\Model\Product\Validator\Plugin" sortOrder="50" />
+    </type>
+    <type name="Magento\ConfigurableProduct\Block\Adminhtml\Product\Attribute\Edit\Tab\Variations\Main">
+        <arguments>
+            <argument name="inputTypeFactory" xsi:type="object">Magento\Catalog\Model\System\Config\Source\InputtypeFactory</argument>
+        </arguments>
+    </type>
+    <type name="Magento\Catalog\Model\Resource\Product">
+        <plugin name="reload_attributes" type="Magento\ConfigurableProduct\Plugin\Model\Resource\Product" />
+    </type>
+</config>

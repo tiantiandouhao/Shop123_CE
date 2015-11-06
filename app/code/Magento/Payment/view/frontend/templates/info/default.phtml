@@ -1,0 +1,31 @@
+<?php
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<?php
+/**
+ * @see \Magento\Payment\Block\Info
+ */
+?>
+<dl class="payment-method">
+    <dt class="title"><?php echo $block->escapeHtml($block->getMethod()->getTitle()) ?></dt>
+<?php if ($_specificInfo = $block->getSpecificInformation()):?>
+    <dd class="content">
+        <table class="data table">
+            <caption class="table-caption"><?php echo $block->escapeHtml($block->getMethod()->getTitle()) ?></caption>
+            <?php foreach ($_specificInfo as $_label => $_value):?>
+                <tr>
+                    <th scope="row"><?php echo $block->escapeHtml($_label)?></th>
+                    <td><?php echo nl2br(implode("\n", $block->getValueAsArray($_value, true)))?></td>
+                </tr>
+            <?php endforeach; ?>
+        </table>
+    </dd>
+<?php endif;?>
+</dl>
+<?php echo $block->getChildHtml()?>

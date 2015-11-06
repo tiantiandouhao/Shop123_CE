@@ -1,0 +1,81 @@
+﻿
+Product,产品
+Price,价格
+Qty,数量
+Subtotal,小计
+Total,共
+Incl. Tax,含税
+Total incl. tax,含税总计
+Remove item,删除产品
+Items,产品
+Change,更改
+Product Name,产品名称
+Billing Information,账单信息
+Shipping Information,送货信息
+Shipping Method,送货方式
+Continue Shopping,继续购物
+Billing Address,账单地址
+Payment Method,付款方式
+Place Order,下订单
+"Sorry, no quotes are available for this order at this time.",对不起，目前没有该订单的报价
+Thank you for your purchase!,感谢您的购买！
+Edit Address,编辑地址
+Add New Address,添加新地址
+Change Billing Address,更改账单地址
+Remove Item,删除产品
+Ship to Multiple Addresses,发送至多个地址
+Billing Information - %1,账单信息 - %1
+Review Order - %1,查看订单 - %1
+Total for this address,该地址总计
+Shipping Methods,送货方式
+Data saving problem,保存数据错误
+We cannot open the overview page.,不能打开预览页
+Please agree to all Terms and Conditions before placing the order.,下单前请同意所有的条款和条件
+Order place error,下单错误
+Create Shipping Address,创建送货地址
+Edit Shipping Address,编辑送货地址
+Create Billing Address,创建账单地址
+Edit Billing Address,编辑账单地址
+Maximum qty allowed for Shipping to multiple addresses is %1,允许的发货地址数量为%1
+Please select shipping methods for all addresses.,请问所有的地址选择发货方式
+Payment method is not defined,付款方式未定义
+The requested Payment Method is not available for multishipping.,要求的罚款方式是不能多地址发货的
+Item not found or already ordered,产品未找到或已订购
+Please specify a payment method.,请指定付款方式
+Please check shipping addresses information.,请检查发货地址信息
+Please specify shipping methods for all addresses.,请为所有的地址指定发货方式
+Please check billing address information.,请检查账单地址信息
+Select Addresses,选择地址
+Order Success,订购成功
+Default Billing,缺省账单
+Default Shipping,缺省送货
+Select Address,选择地址
+Back to Billing Information,返回至账单信息
+Please select a shipping address for applicable items.,请为产品选择发货地址
+Enter a New Address,输入新地址
+Send To,发送至
+Shipping selection is not applicable.,无法进行货运选择
+Continue to Shipping Information,继续发货信息
+Update Qty &amp; Addresses,更新数量和地址
+Back to Shopping Cart,返回至购物车
+Continue to Review Your Order,继续查看你的订单
+Back to Shipping Information,返回到发货信息
+Other items in your order,您订单中的另外产品
+Edit Items,编辑产品
+Checkout with Multiple Addresses,使用多个地址结帐
+Address %1 of %2,地址 %1 of %2
+Shipping To,发货至
+Grand Total:,总额:
+Submitting order information...,提交订单信息...
+Select Shipping Method,选择发货方式
+Continue to Billing Information,继续账单信息
+Back to Select Addresses,返回至选择地址
+Thanks for your order. We'll send you emails with order details and tracking information.,感谢采购.我们会邮件告知您订单细节和跟踪信息
+Your order number is ,您的订单号是
+Review Order,查看订单
+Options,选项
+Your order has been received.,您的订单已收到。
+Multishipping Settings,多送货地址设置
+Allow Shipping to Multiple Addresses,允许送货至多个地址
+Maximum Qty Allowed for Shipping to Multiple Addresses,允许发货到多个地址的最大数量
+Check Out with Multiple Addresses,配送到多个地址

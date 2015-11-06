@@ -1,0 +1,50 @@
+﻿Read Details,详细阅读
+Mark as Read,标记为已读
+Remove,移除
+Messages Inbox,消息盒
+You have %1 new system message,您有新系统消息 %1 
+Incoming Message,输入信息
+close,关闭
+Read details,详细阅读
+Notifications,通知
+The message has been marked as Read.,该消息标记为已读
+We couldn't mark the notification as Read because of an error.,因为错误，我们不能将通知标记为读。
+Please select messages.,请选择信息
+The message has been removed.,消息已移除
+Total of %1 record(s) have been removed.,已删除总计 % 1记录
+1 Hour,一小时
+2 Hours,两小时
+6 Hours,六小时
+12 Hours,12小时
+24 Hours,24小时
+critical,危险
+major,重要
+minor,次要
+notice,注意
+Wrong message type,错误信息类型
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","{ { base_url } }不推荐在生产环境中使用申报基准不安全的URL /基准安全网址。. 强烈建议在您的magento中更改此值<a href=""%1"">配置</a>."
+One or more of the Cache Types are invalidated: %1. ,一个或更多的缓存类型无效: %1. 
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.",请点击<a href=""%1"">缓存管理</a>刷新缓存。
+One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details.,在媒体库同步过程中一个或以上媒体文件未能同步. 详情参见日志文件.
+Synchronization of media storages has been completed.,媒体库同步已经完成
+"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","您的网络服务器配置不正确. 因此, 可从外部访问有敏感信息的配置文件. 请联系您的托管供应商。"
+Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.,您的服务器配置不正确请联系您的托管供应商检查文件权。
+"We appreciate our merchants' feedback. Please <a href=""#"" data-mage-init=%1>take our survey</a> and tell us about features you'd like to see in Magento.","我们感谢用户的反馈. 请<a href=""#"" data-mage-init=%1>参加我们的调查</a>，告诉我们你想看到的Magento."
+Close popup,关闭弹出窗口
+Close,关闭
+Critical System Messages,关键系统消息
+Major System Messages,主要系统消息
+System messages,系统消息
+Notification,通知
+Cancel,取消
+Acknowledge,应答 
+See All (%1 unread),看全部 (%1 未读)
+Actions,动作
+Message,信息
+Use HTTPS to Get Feed,使用HTTPS获取反馈
+Update Frequency,更新频率
+Last Update,最近更新
+Severity,严重
+Date Added,添加日期
+System Messages:,系统消息:
+One or more of the indexers are not valid. Please add Magento cron file to crontab or launch cron.php manually.,有部分索引更新不可用.请添加系统计划任务或者手动执行cron.php

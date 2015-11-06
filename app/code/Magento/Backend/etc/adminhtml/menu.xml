@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Backend/etc/menu.xsd">
+    <menu>
+        <add id="Magento_Backend::system_design_schedule" title="Store Design Schedule" module="Magento_Backend" sortOrder="30" parent="Magento_Backend::system_design" action="adminhtml/system_design" resource="Magento_Backend::schedule"/>
+        <add id="Magento_Backend::system_currency" title="Currency" module="Magento_Backend" sortOrder="30" parent="Magento_Backend::stores" action="adminhtml/system_currency" resource="Magento_CurrencySymbol::system_currency"/>
+        <add id="Magento_Backend::system_store" title="All Stores" module="Magento_Backend" sortOrder="10" parent="Magento_Backend::stores_settings" action="adminhtml/system_store/" resource="Magento_Backend::store"/>
+        <add id="Magento_Backend::dashboard" title="Dashboard" module="Magento_Backend" sortOrder="10" action="adminhtml/dashboard" resource="Magento_Backend::dashboard"/>
+        <add id="Magento_Backend::system" title="System" module="Magento_Backend" sortOrder="80" resource="Magento_Backend::system"/>
+        <add id="Magento_Backend::system_tools" title="Tools" module="Magento_Backend" sortOrder="50" parent="Magento_Backend::system" resource="Magento_Backend::tools"/>
+        <add id="Magento_Backend::system_design" title="Design" module="Magento_Backend" sortOrder="20" parent="Magento_Backend::stores" resource="Magento_Backend::design"/>
+        <add id="Magento_Backend::system_convert" title="Data Transfer" module="Magento_Backend" sortOrder="10" parent="Magento_Backend::system" resource="Magento_Backend::convert"/>
+        <add id="Magento_Backend::system_cache" title="Cache Management" module="Magento_Backend" sortOrder="10" parent="Magento_Backend::system_tools" action="adminhtml/cache" resource="Magento_Backend::cache"/>
+        <add id="Magento_Backend::marketing" title="Marketing" module="Magento_Backend" sortOrder="40" resource="Magento_Backend::marketing"/>
+        <add id="Magento_Backend::marketing_seo" title="SEO &amp; Search" module="Magento_Backend" sortOrder="40" parent="Magento_Backend::marketing"  resource="Magento_Backend::marketing_seo"/>
+        
+        <add id="Magento_Backend::marketing_config" title="Configuration" module="Magento_Backend" sortOrder="50" parent="Magento_Backend::marketing"  resource="Magento_Backend::marketing_config"/>
+		<add id="Magento_Backend::marketing_config_rss" title="RSS" module="Magento_Backend" sortOrder="10" parent="Magento_Backend::marketing_config" action="adminhtml/system_config/edit/section/rss" resource="Magento_Backend::marketing_config_rss" />        
+		<add id="Magento_Backend::marketing_config_google" title="Google API" module="Magento_Backend" sortOrder="20" parent="Magento_Backend::marketing_config" action="adminhtml/system_config/edit/section/google" resource="Magento_Backend::marketing_config_google" />        
+		<add id="Magento_Backend::marketing_config_xml" title="Site Map" module="Magento_Backend" sortOrder="30" parent="Magento_Backend::marketing_config" action="adminhtml/system_config/edit/section/sitemap" resource="Magento_Backend::marketing_config_xml" />        
+		<add id="Magento_Backend::marketing_config_seo" title="SEO Base Config" module="Magento_Backend" sortOrder="40" parent="Magento_Backend::marketing_config" action="adminhtml/system_config/edit/section/marketing" resource="Magento_Backend::marketing_config_seo" />        
+		<add id="Magento_Backend::marketing_config_edm" title="EDM Base Config" module="Magento_Backend" sortOrder="50" parent="Magento_Backend::marketing_config" action="adminhtml/system_config/edit/section/newsletter" resource="Magento_Backend::marketing_config_edm" />        
+		<add id="Magento_Backend::marketing_config_sns" title="SNS Base Config" module="Magento_Backend" sortOrder="60" parent="Magento_Backend::marketing_config" action="adminhtml/system_config/edit/section/sendfriend" resource="Magento_Backend::marketing_config_sns" />        
+		
+        <add id="Magento_Backend::marketing_communications" title="Communications" module="Magento_Backend" sortOrder="30" parent="Magento_Backend::marketing"  resource="Magento_Backend::marketing_communications"/>
+        
+        <add id="Magento_Backend::operate" title="operate" module="Magento_Backend" sortOrder="40" resource="Magento_Backend::operate"/>
+        
+        <add id="Magento_Backend::content_elements" title="Elements" module="Magento_Backend" sortOrder="10" parent="Magento_Backend::operate" resource="Magento_Backend::content_elements"/>
+        <add id="Magento_Backend::stores" title="Stores" module="Magento_Backend" sortOrder="70" resource="Magento_Backend::stores"/>
+        <add id="Magento_Backend::stores_settings" title="Settings" module="Magento_Backend" sortOrder="10" parent="Magento_Backend::stores" resource="Magento_Backend::stores_settings"/>
+        <add id="Magento_Backend::system_other_settings" title="Other Settings" module="Magento_Backend" sortOrder="80" parent="Magento_Backend::system" resource="Magento_Backend::system_other_settings"/>
+    </menu>
+</config>
